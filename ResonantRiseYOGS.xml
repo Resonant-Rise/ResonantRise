@@ -23,7 +23,7 @@
   <mods>
     <!-- Forge and Cauldron -->
     <mod url="packs/YogscastCompletePack/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
-         name="Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="A modding API used by a lot of mods." />
+         name="Minecraft Forge" type="forge" version="9.11.1.965" authors="LexManos, cpw and the many, many contributors!" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="A modding API used by a lot of mods." />
     <mod url="packs/YogscastCompletePack/files/forgelibs/cauldron-1.6.4-1.965.21.174-server.jar" file="cauldron-1.6.4-1.965.21.174-server.jar" md5="b593b9a15ba5e81c3a3ba750c39739a5" download="server"
          name="Cauldron [formerly MCPC+]"  version="1.965.21.174"
 		 type="mcpc" depends="Cauldron Libs"
