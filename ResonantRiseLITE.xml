@@ -361,7 +361,7 @@
 	<mod url="packs/ResonantRiseLite/files/mods/NEIPlugins-1.1.0.6.jar" file="NEIPlugins-1.1.0.6.jar" md5="f005f1044b4fd706fef4858caef7db03" download="server"
          name="NEI Plugins" type="mods" server= "no" version="1.1.0.6"
          website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" authors="Mistaqur"
-         description="Even more improvments to Applied Energistics." />
+         description="Even more improvements to Applied Energistics." />
     <mod url="packs/ResonantRiseLite/files/mods/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
          name="Rei's Minimap"  type="mods" server="no" optional="yes" recommended="no" group="Minimap"
          version="3.4_01"
