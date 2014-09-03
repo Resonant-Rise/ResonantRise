@@ -857,7 +857,7 @@
 		 url="packs/YogscastCompletePack/files/config-switches/oregen_plentiful_2.8.5.0.zip" file="oregen_plentiful_2.8.5.0.zip" md5="151fe4156ebc3f2cb5a033f6350f5c28" download="server" 
 		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
 		 website="http://resonant-rise.com"
-		 description="Standard ore generation designed to be accomodating to novices (and fun)!" />
+		 description="Standard ore generation designed to be accommodating to novices (and fun)!" />
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
