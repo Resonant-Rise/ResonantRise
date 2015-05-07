@@ -14,7 +14,7 @@
     <libraries>
         <library url="packs/ResonantRise/files/forgelibs/1291/launchwrapper-1.11.jar" download="server" file="launchwrapper-1.11.jar" md5="189acaecbe31eeb4366bca7ba17d7496" server="net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar" 
             />
-        <library url="packs/ResonantRise/files/forgelibs/1291/asm-all-5.0.3.jar" download="server" file="asm-all-5.0.3.jaFgagr" md5="c5cc4613bbdfba3ccf5f0ab85390d0b8" server="org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar" 
+        <library url="packs/ResonantRise/files/forgelibs/1291/asm-all-5.0.3.jar" download="server" file="asm-all-5.0.3.jar" md5="c5cc4613bbdfba3ccf5f0ab85390d0b8" server="org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar" 
             />
         <library url="packs/ResonantRise/files/forgelibs/1291/akka-actor_2.11-2.3.3.jar" download="server" file="akka-actor_2.11-2.3.3.jar" md5="2a3d8946f684f928c48a2dd298c5cd29" server="com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar" 
             />
