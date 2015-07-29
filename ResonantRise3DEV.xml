@@ -1325,7 +1325,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Forestry"
-             version="3.5.7.16" url="packs/ResonantRise/files/3.x/forestry_1.7.10-3.5.7.16.jar" file="forestry_1.7.10-3.5.7.16.jar" md5="9d26e830b767313ea7a05e5dfadbc95c" download="server"
+             version="3.6.3" url="packs/ResonantRise/files/3.x/forestry_1.7.10-3.6.3.jar" file="forestry_1.7.10-3.6.3.jar" md5="30da4536707ee4d3fc021fe37cf91f57" download="server"
              type="mods" optional="yes" recommended="no" colour="For"
              website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
              authors="SirSengir, MysteriousAges"
@@ -1333,7 +1333,7 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
 
         <mod name="Binnie&apos;s Mods" 
-             version="2.0-pre12" url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre12.jar" file="binnie-mods-2.0-pre12.jar" md5="db5729107e8f0e743f64c945c9f2524e" download="server"
+             version="2.0-pre14" url="packs/ResonantRise/files/3.x/binnie-mods-2.0-pre14.jar" file="binnie-mods-2.0-pre14.jar" md5="ee453613c92bc6525410692d28042095" download="server"
              type="mods" optional="yes" recommended="no" colour="For" linked="Forestry" depends="Forestry"
              website="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods" donation="http://minecraft.curseforge.com/mc-mods/223525-binnies-mods"
              authors="Binnie"
@@ -1341,15 +1341,15 @@ if more then one parent the first parent in the alphabet, unless second parent i
              />
         
         <mod name="Gendustry"
-             version="1.4.13.97" url="packs/ResonantRise/files/3.x/gendustry-1.4.13.97-mc1.7.10.jar" file="gendustry-1.4.13.97-mc1.7.10.jar" md5="d4b830594f52cc79c625c32cb6d0ed30" download="server"
+             version="1.4.13.97" url="packs/ResonantRise/files/3.x/gendustry-1.5.2.107-mc1.7.10.jar" file="gendustry-1.5.2.107-mc1.7.10.jar" md5="ed9e0e5d6ab4ec33c84edafd0e0fdd5d" download="server"
              type="mods" optional="yes" recommended="no" colour="For" linked="Forestry" depends="Forestry"
              website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="bdew"
              description="Saviour of Forestry." 
              />
 
-        <mod name="Magic Bees" version="1.7.10-2.1.22"
-             url="packs/ResonantRise/files/3.x/magicbees-1.7.10-2.1.22.jar" file="magicbees-1.7.10-2.1.22.jar" md5="35b56df192339d6b34ecef5ebafa1f19" download="server"
+        <mod name="Magic Bees" version="1.7.10-2.3.3"
+             url="packs/ResonantRise/files/3.x/magicbees-1.7.10-2.3.3.jar" file="magicbees-1.7.10-2.3.3.jar" md5="a2add9b02459b39524894410bd40cec1" download="server"
              type="mods" optional="yes" recommended="no" colour="For" linked="Forestry" depends="Forestry"
              website="http://www.minecraftforum.net/topic/1627856-" 
              authors="MysteriousAges, Arkandos" 
