@@ -1757,7 +1757,7 @@
              />
         
         <mod name="Journey Map" version="5.1.3" 
-             url="http://minecraft.curseforge.com/projects/journeymap-32274/files/2269314" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
+             url="http://minecraft.curseforge.com/projects/journeymap-32274/files/2269314/download" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
              type="mods" optional="yes" selected="no" recommended="no" server="no" group="minimap"
              website="http://journeymap.techbrew.net/" donation="https://www.patreon.com/techbrew?ty=h"
              authors="techbrew"
