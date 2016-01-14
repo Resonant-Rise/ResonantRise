@@ -3,6 +3,43 @@ Build 096
 =================
 
 ==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Fixed Journey Map download URL in XML 
+
+-- Dev only --
+n/a
+
+=================
+Build 096
+=================
+
+==Dependancies (Core)==
 Forge 1.7.10-10.13.4.1614
 
 ==Lite (Core)==
