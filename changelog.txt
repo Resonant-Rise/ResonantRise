@@ -1,4 +1,487 @@
 =================
+Build 096
+=================
+
+==Dependancies (Core)==
+Forge 1.7.10-10.13.4.1614
+
+==Lite (Core)==
+Applied Energistics 2 [rv3-beta-1]
+AE2Stuff [RV3-0.5.1.9]
+Another One Bites the Dust [2.9.0]
+AsieLib [0.4.5]
+Armourers Workshop [0.38.1.98]
+BDlib [1.9.4.109]
+Botania [r1.8-248]
+BrandonsCore [1.0.0.10-bugfix]
+ChatFlow [1.1] (Client Only)
+Compact Storage [release-2.1.0-lts.20]
+ComputerCraft [1.75]
+Dynamic Dynamos [0.1]
+Emotes [1.0.1]
+Ender Compass [1.2]
+Ender IO [2.3.0.422]
+Ender IO Addons [0.9.13.041]
+EnderTech [00.3.2.405]
+Extra Cells [2.3.7b176]
+Ganys Nether [1.8.3]
+Gany's Surface [1.12.7]
+Headcrumbs [1.7.0]
+Immibis-Core [59.1.4]
+Ironchest [6.0.62.742]
+Numina [0.4.0.131]
+Ore Dictionary Converter [1.6.1]
+Refined Relocation [1.1.12]
+SonarCore [1.0.0]
+Technomancy [0.12.2]
+
+==Mainline (Optional/Recomended)==
+AgriCraft [1.4.6-hotfix]
+Buildcraft [7.1.14]
+Buildcraft Additions [2.2.5]
+Buildcraft Compat [7.1.3]
+Carpenter's Blocks [v3.3.8_dev_r7]
+Calculator [1.9.2]
+Computronics [1.6.0]
+Draconic-Evolution [1.0.2-Snapshot_9]
+Ender Zoo [1.0.15.32]
+Gendustry [1.6.3.132]
+Generators [0.9.19.120]
+Immersive Engineering [0.6.5.1]
+immersive Integration [0.6.6]
+Logistics [0.9.3.70]
+Mekanism [8.1.8.258]
+Mekanism Generators [8.1.8.258]
+Mekanism Tools [8.1.8.258]
+
+==Optionals==
+BiomesOPlenty [2.1.0.1521]
+Calculator [1.9.0]
+Compact Machines [1.21]
+Immibis-Peripherals [59.0.3]
+OpenComputers [1.5.21.41]
+Pressure [1.2.5.125]
+Thaumcraft Minus Thaumcraft [1.1]
+VeinMiner [0.31.1]
+
+--Client Only--
+Eira IRC [2.9.396]
+Journey map [5.1.3-unlimited]
+
+--Server Only--
+Journey Map Server [1.0.5]
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+AW2 - Added Grimiore of Gaia 3 and Dark Managerie Mobs to default target lists for player-owned combat type NPCs
+Big Reactors - Reactors require Steel for the casings
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 095
+=================
+
+==Dependancies (Core)==
+	Baubles
+	CodeChickenLib
+	Commons-Codec
+	Commons-Compress
+	ForgeMultipart
+	ForgeRelocation
+	RelocationFMP
+	libsandstone
+	MrTJPCore
+
+==Lite (Core)==
+	Applied Energistics 2
+		AE2 Stuff
+		Extra Cells
+	Apple Core
+	Another One Bites The Dust
+	Asie Lib
+	Backpacks
+	BdLib
+	Biblio Craft
+		Biblio Natura
+	Big Reactors
+	Blood Magic
+	Chisel 2
+	CodeChickenCore
+	CoFH Core
+	CoFH Lib
+	ComputerCraft
+	Dense Ores
+	Dimensional Anchors
+	Enchiridion 2
+	Ender Compass
+	Ender Core
+	Ender IO
+	Ender Storage
+	Extra Utilities
+	Gany's End
+	Gany's Nether
+	Gany's Surface
+	GrowthCraft AIO
+	Guide-API
+	Immibis Core
+	INPure Core
+	Iron Chests
+	IvToolkit
+		Recurrent Complex
+	JABBA
+	Java 7 Checker
+	Kore Sample
+		Scott's Tweaks
+	LunatriusCore
+	Mantle
+		Natura
+		Tinkers' Construct
+			Tinkers' Mechworks
+			Extra TiC
+	Mine Factory Reloaded
+	Mine Tweaker
+	Mod Tweaker 2
+	Project Red: Base
+		Compatability
+		Integration
+		Lighting
+		Mechanical
+		World
+	NEI Addons
+	NEI Integration
+	Not Enougg Items
+	Not Enough Keys
+	Not Enough Resources
+	Nether Ores
+	OpenEye
+	OpenModsLib
+	OpenBlocks
+	Pam's Harvestcraft
+	Random Things
+	Refined Reloaction
+	Simply Jetpacks
+	Statues
+	Thaumcraft
+		Automagy
+		Forbidden Magic
+		Thaumic Tinkerer
+		Thaumic Energistics
+	Thermal Dynamics
+	Thermal Expansion
+		Smeltery
+		Arsenal
+		Armory
+	Thermal Foundation
+	Translocator
+	Waila
+	Waila Harvestability
+	Waila Plugins
+	WAWLA
+	WR-CBE
+	EiraIRC Client Config
+
+==Mainline (Optional/Recomended)==
+	Advanced Generators
+	Botania
+	Buildcraft
+		Buildcraft Additions
+		Buildcraft Compat
+		Eureka
+		Logistics Pipes
+	Carpenter's Blocks
+	Chisel 2
+		Chisel Facades
+		More Chisel
+	Computronics
+	Draconic Evolution
+	EnderZoo
+	Enhanced Portals 3
+	Forestry
+		BiblioWoods Forestry
+		Binnie's Mods
+		Gendustry
+		Magic Bee's
+	Grimoire of Gaia 3
+	Immersive Engineering
+		Immersive Integration
+	Mekanism
+		Mekanism Tools
+		Mekanism Generators
+	QuiverBow
+	Railcraft
+	Solar Flux
+	Soul SHards: Reborn
+	Steve's Carts
+	Steve's Factory Manager
+		Steve's Addons
+	Steve's Workshop
+	Witchery
+	Ztones
+		Chisel Tones
+
+==Optionals==
+	Ancient Warfare 2
+	Aromacore1997
+		Dim World
+	Aura Cascade
+	Biomes o' Plenty
+		BiblioWoods BoP Ed
+	Calculator
+	Compact Machines
+	Cosmetic Armor
+	Dark Managerie
+	Decocraft
+	Fastcraft
+	Floodlights
+	Garden Stuff
+	HEE
+	Headcrumbs
+	Infernal Mobs
+	Immibis' Peripherals
+	Magical Crops (Cannot be used with Opis/MapWriter)
+		Magical Crops Armoury
+		Magical Crops Decoration
+	Open Computers
+	Open Peripheral AIO 
+	Ore Dictionary Converter
+	Pistronics
+	Pneumaticraft
+	Pressure Pipes
+	Primitive Mobs
+	Project Blue
+	Quiver Mob
+	Redstone Paste
+	Refined Relocation
+	Reliquary
+	RF Tools
+	Router Reborn
+	Sanguimancy
+	Super Crafting Frame
+	Thermal Recycling
+	Iguana Tinker Tweaks
+	Tubes
+	Veinminer
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+	Archimedies' Ships
+	Artifacts
+	Artifice
+	Balkon's
+	Chococraft
+	Ex Nihilio
+		Ex Astris
+	Flaxbeard's
+	Greg's Lighting
+	Hunger Overhaul
+	Industrial Craft 2 (NOT THE API)
+		Add Ons
+	K4Lib
+		Hydraulicraft
+	Lava Monsters
+	Malisis Core
+		Malisis Doors
+	Metallurgy Core
+		Metallurgy
+	Pam's Harvest the Nether
+	Power Converters
+	Primitive Mobs
+	Project E
+	Statues (No Longer Maintained)
+	The Erebus
+
+==Configs==
+Complete Reset to all configs All IDs have been Organized (where allowed) Expect errors in settings, .
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 094
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+n/a
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+Advanced Generators [0.9.14.89]
+AE2 stuff [0.4.2.43]
+AgriCraft [1.4.0-alpha-4]
+Ancient Warfare [2.4.106-beta-FULL]
+AOBD [2.7.1]
+Applied Energistics2 [rv2-stable-10]
+AsieLib [0.4.2]
+AuraCascade [504]
+Automagy [0.26]
+BDlib [1.9.0.94]
+Binnie's Mods [2.0-pre13]
+Biomes O' Plenty [2.1.0.1364]
+Botania [r1.7-201]
+Buildcraft [7.0.13]
+Buildcraft Additions [2.2.0]
+Calculator [1.7.5]
+Chisel 2 [2.4.1.40]
+ChromatiCraft  [V7b]
+CoFHCore-[1.7.10]3.0.3B2-294
+CoFHLib-[1.7.10]1.0.3B2-169
+ComputerCraft [1.74]
+Computronics [1.5.5]
+Dimensional-Anchor [59.0.3]
+DragonAPI [V7b]
+ElectriCraft [V7b]
+Ender Compass [1.0]
+Equivalent Exchange 3 [0.3.507]
+Extra Cells [2.2.73b129]
+Fluxed-Crystals 2 [1.0.3]
+Forbidden Magic [0.57]
+Forestry [3.6.2.19]
+Gendustry [1.5.2.107]
+growthcraft-apples [2.1.0]
+growthcraft-bamboo [2.1.0]
+growthcraft-bees [2.1.0]
+growthcraft-cellar [2.1.0b]
+growthcraft-core [2.1.0a]
+growthcraft-fishtrap [2.1.0a]
+growthcraft-grapes [2.1.0]
+growthcraft-hops [2.1.0]
+growthcraft-rice [2.1.0a]
+HardcoreEnderExpansion  MC-1.7.10  v1.8.2
+IC2NuclearControl-2.2.5a-GoingForTheKill
+ImmersiveEngineering-0.4.0
+immersiveintegration-0.4.0
+immibis-core-59.1.1
+industrialcraft-2-2.2.746-experimental
+industrialcraft-2-2.2.746-experimental-api
+k4lib 0.1.50-universal
+KoreSample 1.3.2
+magicalcrops-4.0.0_PUBLIC_BETA_5
+magicalcropsarmoury-4.0.0_PUBLIC_BETA_4
+magicalcropsdeco-4.0.0_PUBLIC_BETA_4a
+magicbees 2.3.2
+malisiscore 0.12.4
+malisisdoors 1.9.1
+Mekanism 8.1.5.246
+MekanismGenerators 8.1.5.246
+MekanismTools 8.1.5.246
+ModTweaker-2-0.8.3
+Morpheus-1.8-2.0.41
+OpenComputers-1.5.13.28-universal
+OpenPeripheral AIO-4b
+PneumaticCraft 1.9.2-88-universal
+PowerConverters-1.7.10_3.3.0-jenkins.74
+pressure-1.2.1.108
+ProjectE PE1.7.2
+QuantumFlux 1.2.3
+ReactorCraft [V7b]
+RedstoneArsenal-[1.7.10]1.1.1B1-85
+rftools-3.11
+RotaryCraft [V7b]
+RouterReborn 1.2.0.24-universal
+Sanguimancy 1.1.9-31
+ScottsTweaks 1.3.1
+SoulShards-TOW 0.1-RC9-7
+StorageDrawers 1.5.11
+thaumicenergistics-0.8.10.7
+ThaumicTinkerer-2.5 507
+ThermalDynamics-[1.7.10]1.1.0B2-149
+ThermalExpansion-[1.7.10]4.0.2B2-210
+ThermalFoundation-[1.7.10]1.2.0B1-95
+ttCore-0.1.1-78
+WAILAPlugins-0.1.0-16
+Wawla-1.3.1-1.7.10
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+Agricraft - Disabled VIllager, causes crash on startup.
+Electricraft - Removed Ores from Generation.
+Immersive Engineering - Removed Ores from Generation.
+Mekanisim - Voice Server is now disabled by default.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 093
+=================
+
+==Modes==
+n/a
+
+==New/Updated Non-Optional (Eternity) Mods/Libraries==
+DragonAPI [6F]
+
+==New/Updated Optional Mods/Libraries==
+
+--Client Only--
+Journey Map Fairplay [5.1.0]
+Journey Map Unlimited [5.1.0]
+
+--Server Only--
+Journey Map Server [1.0.5]
+
+--Universal--
+Chromaticraft [6F]
+Compater [0.1.2.8]
+Electricraft [6F]
+Equivelent Exchange 3 [0.3.507]
+Immersive Engineering [0.3.3]
+Immersive Integration [0.3.0]
+Quantum Flux [1.2.1]
+ReactorCraft [6F]
+RotaryCraft [6F]
+Solar Flux [0.8A]
+Storage Drawers [1.5.10]
+
+==Removed Mods/Libraries==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 092/3.2.7.1
 =================
 
@@ -908,7 +1391,7 @@ Tinkers' Construct [1.8.4a]
 Technomancy  [0.10.g]
 Territorial Dealings [1.7.10_b9]
 Thaumic Energistics [0.8.9.1b-rv2]
-Thaumic Tinkerer  [2.5-1.7.10-489]
+Thaumic Tinkerer  [2.5 489]
 Thermal Dynamics [1.0.0-122]
 Thermal Expansion [4.0.1-182]
 Thermal Smeltery [1.2.1]
