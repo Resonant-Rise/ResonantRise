@@ -1,4 +1,93 @@
 =================
+Build 096
+=================
+
+==Dependancies (Core)==
+Forge 1.7.10-10.13.4.1614
+
+==Lite (Core)==
+Applied Energistics 2 [rv3-beta-1]
+AE2Stuff [RV3-0.5.1.9]
+Another One Bites the Dust [2.9.0]
+AsieLib [0.4.5]
+Armourers Workshop [0.38.1.98]
+BDlib [1.9.4.109]
+Botania [r1.8-248]
+BrandonsCore [1.0.0.10-bugfix]
+ChatFlow [1.1] (Client Only)
+Compact Storage [release-2.1.0-lts.20]
+ComputerCraft [1.75]
+Dynamic Dynamos [0.1]
+Emotes [1.0.1]
+Ender Compass [1.2]
+Ender IO [2.3.0.422]
+Ender IO Addons [0.9.13.041]
+EnderTech [00.3.2.405]
+Extra Cells [2.3.7b176]
+Ganys Nether [1.8.3]
+Gany's Surface [1.12.7]
+Headcrumbs [1.7.0]
+Immibis-Core [59.1.4]
+Ironchest [6.0.62.742]
+Numina [0.4.0.131]
+Ore Dictionary Converter [1.6.1]
+Refined Relocation [1.1.12]
+SonarCore [1.0.0]
+Technomancy [0.12.2]
+
+==Mainline (Optional/Recomended)==
+AgriCraft [1.4.6-hotfix]
+Buildcraft [7.1.14]
+Buildcraft Additions [2.2.5]
+Buildcraft Compat [7.1.3]
+Carpenter's Blocks [v3.3.8_dev_r7]
+Calculator [1.9.2]
+Computronics [1.6.0]
+Draconic-Evolution [1.0.2-Snapshot_9]
+Ender Zoo [1.0.15.32]
+Gendustry [1.6.3.132]
+Generators [0.9.19.120]
+Immersive Engineering [0.6.5.1]
+immersive Integration [0.6.6]
+Logistics [0.9.3.70]
+Mekanism [8.1.8.258]
+Mekanism Generators [8.1.8.258]
+Mekanism Tools [8.1.8.258]
+
+==Optionals==
+BiomesOPlenty [2.1.0.1521]
+Calculator [1.9.0]
+Compact Machines [1.21]
+Immibis-Peripherals [59.0.3]
+OpenComputers [1.5.21.41]
+Pressure [1.2.5.125]
+Thaumcraft Minus Thaumcraft [1.1]
+VeinMiner [0.31.1]
+
+--Client Only--
+Eira IRC [2.9.396]
+Journey map [5.1.3-unlimited]
+
+--Server Only--
+Journey Map Server [1.0.5]
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+AW2 - Added Grimiore of Gaia 3 and Dark Managerie Mobs to default target lists for player-owned combat type NPCs
+Big Reactors - Reactors require Steel for the casings
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 095
 =================
 

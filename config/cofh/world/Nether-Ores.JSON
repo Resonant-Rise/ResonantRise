@@ -1,0 +1,301 @@
+{
+    "N-Coal": {
+        "template": "Uniform",
+        "block": "NetherOres:tile.netherores.ore.0",
+		"material": "minecraft:netherrack",
+        "clusterSize": 16,
+        "numClusters": 15,
+        "minHeight": 5,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "N-Diamond": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 1},
+		"material": "minecraft:netherrack",
+        "clusterSize": 5,
+        "numClusters": 1,
+        "meanHeight": 12,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "N-Gold": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 2},
+		"material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 16,
+        "meanHeight": 30,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Iron": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 3},
+		"material": "minecraft:netherrack",
+        "clusterSize": 8,
+        "numClusters": 19,
+        "meanHeight": 55,
+        "maxVariance": 25,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Lapis": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 4},
+		"material": "minecraft:netherrack",
+        "clusterSize": 9,
+        "numClusters": 14,
+        "meanHeight": 34,
+        "maxVariance": 6,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "N-Redstone": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 5},
+		"material": "minecraft:netherrack",
+        "clusterSize": 7,
+        "numClusters": 16,
+        "meanHeight": 12,
+        "maxVariance": 9,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "N-Copper": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 6},
+		"material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 19,
+        "meanHeight": 52,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Tin": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 7},
+		"material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 22,
+        "meanHeight": 49,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Emerald": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.0", "metadata": 8},
+        "clusterSize": 5,
+        "numClusters": 7,
+        "meanHeight": 120,
+        "maxVariance": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Silver": {
+        "template": "normal",
+        "block": [
+            {"name": "NetherOres:tile.netherores.ore.0", "metadata": 9, "weight":80},
+            {"name": "NetherOres:tile.netherores.ore.0", "metadata": 10, "weight":20}
+        ],
+		"material": "minecraft:netherrack",
+        "clusterSize": 9,
+        "numClusters": 22,
+        "meanHeight": 33,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	    "N-Lead": {
+        "template": "normal",
+        "block": [
+            {"name": "NetherOres:tile.netherores.ore.0", "metadata": 10, "weight":80},
+            {"name": "NetherOres:tile.netherores.ore.0", "metadata": 9, "weight":20}
+        ],
+		"material": "minecraft:netherrack",
+        "clusterSize": 8,
+        "numClusters": 19,
+        "meanHeight": 31,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+		"N-Ferrous": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.1", "metadata": 1},
+		"material": "minecraft:netherrack",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "meanHeight": 24,
+        "maxVariance": 4,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+		"N-Shiny": {
+        "template": "normal",
+        "block": "NetherOres:tile.netherores.ore.1",
+		"material": "minecraft:netherrack",
+        "clusterSize": 3,
+        "numClusters": 11,
+        "meanHeight": 160,
+        "maxVariance": 90,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+		"N-Osmium": {
+        "template": "normal",
+        "block": {"name": "NetherOres:tile.netherores.ore.1", "metadata": 4},
+		"material": "minecraft:netherrack",
+        "clusterSize": 7,
+        "numClusters": 19,
+        "meanHeight": 28,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+		"Ardite": {
+        "template": "normal",
+        "block": [
+            {"name": "TConstruct:SearedBrick", "metadata": 2, "weight":80},
+            {"name": "TConstruct:SearedBrick", "metadata": 1, "weight":20}
+        ],
+		"material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 11,
+        "meanHeight": 80,
+        "maxVariance": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+		"Cobalt": {
+        "template": "normal",
+        "block": [
+            {"name": "TConstruct:SearedBrick", "metadata": 1, "weight":80},
+            {"name": "TConstruct:SearedBrick", "metadata": 2, "weight":20}
+        ],
+		"material": "minecraft:netherrack",
+        "clusterSize": 3,
+        "numClusters": 13,
+        "meanHeight": 70,
+        "maxVariance": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

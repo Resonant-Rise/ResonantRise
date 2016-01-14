@@ -1,0 +1,17 @@
+[
+  {
+    "address": "irc.esper.net",
+    "nick": "%USERNAME%",
+    "bot": {},
+    "theme": {},
+    "settings": {},
+    "channels": [
+      {
+        "name": "#rr",
+        "bot": {},
+        "theme": {},
+        "settings": {}
+      }
+    ]
+  }
+]
