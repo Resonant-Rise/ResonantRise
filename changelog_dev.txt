@@ -1,5 +1,43 @@
 =================
-Build 096
+Build 098
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+Chatflow - The reason the mod was added, was fixed two days before release, and was missed during second check phase. This has been fixed now, and should have little to no affect on clients/servers.
+
+==Configs==
+Project: Red - Extra ores have been turned off, worlds DO NOT need to be reset.
+Ender IO config - Added more tools to the farming stations. Most if not all Hoes should now work with the stations.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 097/3.3.0.0 (stealth patch)
 =================
 
 ==Dependancies (Core)==
@@ -36,7 +74,7 @@ Fixed Journey Map download URL in XML
 n/a
 
 =================
-Build 096
+Build 096/3.3.0.0
 =================
 
 ==Dependancies (Core)==
