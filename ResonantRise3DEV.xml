@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-098</version>
+        <version>3-DEV-099</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -28,7 +28,7 @@
 
 <!-- Warnings -->
     <warnings>
-        <warning name="mcrop"><![CDATA[Magical Crops does not work with Opis/Mapwriter, selectingone will disable the other.]]></warning>
+        <warning name="ReCubed"><![CDATA[Server Operators: If you select ReCubed, your players MUST also use it, other wise they cannot join the server.]]></warning>
     </warnings>
 
 
@@ -218,8 +218,8 @@
              description="Adds FMP support to ForgeRelocation." 
              />
 
-        <mod name="libsandstone" version="1.0.0" 
-             url="packs/ResonantRise/files/3.x/LibSandstone-1.0.0.jar" file="LibSandstone-1.0.0.jar" md5="1ab495f90923a2d0c67541d1e88ec32f" download="server" 
+        <mod name="libsandstone" 
+             version="1.0.0" url="packs/ResonantRise/files/3.3.x/096/LibSandstone-1.0.0.jar" file="LibSandstone-1.0.0.jar" md5="d662061db2876da2f718addc8202763b" download="server"
              type="dependency" 
              website="http://www.minecraftforum.net/topic/1596973-" 
              authors="x3n0ph0b3,TheMike" 
@@ -635,8 +635,8 @@
              description="Moar barrels  The Jabba team would like to thank the Academy for this award... oh wait... *cough* erm... Credits to neptunepink for the original barrel idea, Q and his community for the name, special thanks to skyboy for rendering assistance and the DSU, and the many people whom have made modded MC such an awesome thing to be a part of." 
              />
 
-        <mod name="Java 7 Checker" 
-             version="1.0" url="packs/ResonantRise/files/3.3.x/JAVA7CHECKER  MC-1.7.10  V1.1.jar" file="JAVA7CHECKER  MC-1.7.10  V1.1.jar" md5="df320acb38beec3cf0a2e6b535811d8f" download="server" 
+        <mod name="Java 7 Checker" version="2.0"
+             url="packs/ResonantRise/files/3.3.x/096/Java7Checker  MC-UNIVERSAL  v2.0.jar" file="Java7Checker  MC-UNIVERSAL  v2.0.jar" md5="adeb7e599b9ff7531173e93a9c2b3332" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/226991/" 
              authors="chylex" 
@@ -907,20 +907,20 @@
              description="Random Things packed into one Mod." 
              />
 
-        <mod name="ReCubed" version="1.1-4" 
-             url="packs/ResonantRise/files/3.3.x/096/ReCubed 1.1-4.jar" file="ReCubed 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server" 
-             type="mods" 
-             website="http://www.curseforge.com/projects/231452/" 
-             authors="Vazkii" 
-             description="A mod that tracks all sorts of stats." 
-             />
-
         <mod name="Refined Relocation" 
              version="1.1.12" url="packs/ResonantRise/files/3.3.x/RefinedRelocation-mc1.7.10-1.1.12.jar" file="RefinedRelocation-mc1.7.10-1.1.12.jar" md5="95886de61a29d541962d50d30324b8a1" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/75811/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/refined-relocation?gameCategorySlug=mc-mods&amp;projectID=75811&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=iDynious%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="Dynious,dmillerw" 
              description="Filter, sort and relocate!" 
+             />
+
+        <mod name="Reliquary" 
+             version="1.2" url="packs/ResonantRise/files/3.3.x/096/Reliquary-1.2.257.jar" file="Reliquary-1.2.257.jar" md5="7b571b97af1abdd114962bda6fa04576" download="server" 
+             type="mods" 
+             website="http://www.curseforge.com/projects/59713/" 
+             authors="x3n0ph0b3,TheMike" 
+             description="Two words: magical swag. Oh, and a gun." 
              />
 
         <mod name="Simply Jetpacks" 
@@ -1616,14 +1616,6 @@
              description="Adds a paste form of redstone, which can stick to various surfaces." 
              />
 
-        <mod name="Reliquary" 
-             version="1.2" url="packs/ResonantRise/files/3.3.x/RELIQUARY-1.2.jar" file="RELIQUARY-1.2.jar" md5="adf9e55b148508bb64354db31f7de255" download="server" 
-             type="mods" optional="yes" recommended="no"
-             website="http://www.curseforge.com/projects/59713/" 
-             authors="x3n0ph0b3,TheMike" 
-             description="Two words: magical swag. Oh, and a gun." 
-             />
-
         <mod name="RFTools" 
              version="4.20" url="packs/ResonantRise/files/3.3.x/rftools-4.20.jar" file="rftools-4.20.jar" md5="d1f477e9dd94eec77159a812f52cbd6d" download="server"
              type="mods" optional="yes" recommended="no"
@@ -1771,22 +1763,6 @@
              authors="techbrew, mysticdrew"
              description="JourneyMap Server is a server side utility which supports the use of the JourneyMap Client Mod. As of the 1.0 release, the jar file can be used in both Forge servers and Bukkit servers. Allows Server control of Radar and Cave Mapping, as well as, Multi-world Support for Maps and Waypoints. Server owners are encouaged to visit the curse page for Journey Map - Server on our mods spreadsheet provided by ATL."
              />
-
-        <!--<mod name="Mobius Core" version="1.2.5" 
-             url="packs/ResonantRise/files/3.x/MobiusCore-1.2.5_1.7.10.jar" file="MobiusCore-1.2.5_1.7.10.jar" md5="29990acae6a30d35057380222be87294" download="server"
-             type="mods" optional="yes" selected="no" recommended="no" client="yes" server="yes" colour="TC4" warning="mcrop"
-             website="http://www.curse.com/mc-mods/minecraft/mobiuscore" donation="http://www.patreon.com/profmobius"
-             authors="ProfMobius"
-             description="Core libs and files for some of ProfMobius' mods" 
-             />-->
-
-        <!--<mod name="Opis" version="1.2.5" 
-             url="packs/ResonantRise/files/3.x/Opis-1.2.5_1.7.10.jar" file="Opis-1.2.5_1.7.10.jar" md5="82e98ab306d952f3371a514333c226b4" download="server"
-             type="mods" linked="Mobius Core" depends="Mobius Core" optional="yes" selected="no" recommended="no" client="yes" server="yes"  colour="TC4"
-             website="http://minecraft.curseforge.com/mc-mods/73832-opis" donation="http://www.patreon.com/profmobius" 
-             authors="ProfMobius"
-             description="Tool to get statistics and read-outs from your server or client, as well as tools to help you find high tick chunks, items, entities, and players... oh and has custom version of MapWriter" 
-             />-->
     
         <mod name="Morpheus" 
              version="1.7.10-1.6.18" url="packs/ResonantRise/files/3.3.x/096/Morpheus-1.7.10-1.6.18.jar" file="Morpheus-1.7.10-1.6.18.jar" md5="d9515a99bfba89b92639dac6847220f4" download="server"
@@ -1802,6 +1778,14 @@
              website="http://www.curse.com/mc-mods/minecraft/mouse-tweaks" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="YaLTeR97"
              description="Adds inventory based item dragging and more!" 
+             />
+
+        <mod name="ReCubed" version="1.1-4" 
+             url="packs/ResonantRise/files/3.3.x/096/ReCubed 1.1-4.jar" file="ReCubed 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server" 
+             type="mods" warning="ReCubed" optional="yes" selected="no" recommended="no"
+             website="http://www.curseforge.com/projects/231452/" 
+             authors="Vazkii" 
+             description="A mod that tracks all sorts of stats." 
              />
 
         <mod name="TC Node Tracker" 
@@ -1826,7 +1810,7 @@
              website="http://www.liteloader.com/mod/voxelmap" 
              authors="MamiyaOtaru"
              description="Radar, Waypoints, Cave Mode... in a neat and clean package." 
-             />        
+             />   
 
 <!-- This section is for DEV ONLY mods these should NEVER be put into public versions, EVER!. -->
 

@@ -1,4 +1,42 @@
 =================
+Build 099
+=================
+
+==Dependancies (Core)==
+LibSandstone (1.0.0)
+Java7Checker (2.0)
+
+==Lite (Core)==
+Xeno's Reliquary (1.2.257)
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+ReCubed was moved to optionals, larger public servers reported issues with the mod getting overloaded from player count. Note: IF your a server owner who wishes to continue using ReCubed, ALL clients must use it as well.
+
+-- Dev only --
+n/a
+
+=================
 Build 098
 =================
 
