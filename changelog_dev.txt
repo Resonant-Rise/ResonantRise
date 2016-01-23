@@ -1,4 +1,41 @@
 =================
+Build 100/3.3.0.1-RC
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Calculator/Calculator Assembly Fix - Moved to Mainline.
+
+-- Dev only --
+n/a
+
+=================
 Build 099
 =================
 

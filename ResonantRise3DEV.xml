@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-099</version>
+        <version>3-DEV-100</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1086,7 +1086,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Select me to activate ALL mods in Mainline."
-             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative"
+             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative,Calculator,Calculator Assembly Fix"
              />
 
     <!-- Mainline Mods (Alphabetized and sorted under Parents)-->
@@ -1153,6 +1153,22 @@
              website="http://www.curseforge.com/projects/232838/" 
              authors="RS485,davboecki,theZorro266" 
              description="Logistics Pipes is an extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes,..." 
+             />
+
+        <mod name="Calculator" 
+             version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
+             type="mods" optional="yes" recommended="no" depends="Calculator Assembly Fix"
+             website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
+             authors="SonarSonic"
+             description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes.  Change the way you craft, change the way you play, change the way you think.  This mod is currently still in development and I am welcoming new ideas for additions to the mod.  Thank you for trying the Calculator Mod" 
+             />
+
+        <mod name="Calculator Assembly Fix" version="1.0" colour="For"
+             url="packs/ResonantRise/files/Scripts/CalcFix.zip" file="CalcFix.zip" md5="a0c9ffffefb21153b593ab3dcf371ed4" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" depends="Calculator" linked="Calculator"
+             website="http://resonant-rise.com"
+             authors="RR Dev Team"
+             description="Fixes recipe conflict with OpenComputers Keypad."
              />
 
         <mod name="Carpenter&apos;s Blocks" 
@@ -1405,7 +1421,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Calculator,Calculator Assembly Fix,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Vein Miner,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
+             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Vein Miner,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
              />
 
         <mod name="Ancient Warfare 2" version="2.4.113" 
@@ -1462,22 +1478,6 @@
              website="http://www.bibliocraftmod.com" 
              authors="Joseph &apos;Nuchaz&apos; Sinclair" 
              description="Adds support for 16 varietys of wood from Biomes O&apos;Plenty for 8 of the wooden block in BiblioCraft." 
-             />
-
-        <mod name="Calculator" 
-             version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
-             type="mods" optional="yes" recommended="no" depends="Calculator Assembly Fix"
-             website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
-             authors="SonarSonic"
-             description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes.  Change the way you craft, change the way you play, change the way you think.  This mod is currently still in development and I am welcoming new ideas for additions to the mod.  Thank you for trying the Calculator Mod" 
-             />
-
-        <mod name="Calculator Assembly Fix" version="1.0" colour="For"
-             url="packs/ResonantRise/files/Scripts/CalcFix.zip" file="CalcFix.zip" md5="a0c9ffffefb21153b593ab3dcf371ed4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" depends="Calculator" linked="Calculator"
-             website="http://resonant-rise.com"
-             authors="RR Dev Team"
-             description="Fixes recipe conflict with OpenComputers Keypad."
              />
 
         <mod name="Compact Machines" 
