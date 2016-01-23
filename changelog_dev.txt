@@ -1,5 +1,42 @@
 =================
-Build 100/3.3.0.1-RC
+Build 101
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+Veinminer (0.27.1) (Downgrade)
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Downgraded Veinminer to fix a small issue reported by xXXStrykerXXx, while it never showed up in testing, the upgraded version didn't change enough to make a difference that we need to worry about at this time.
+
+-- Dev only --
+n/a
+
+=================
+Build 100
 =================
 
 ==Dependancies (Core)==

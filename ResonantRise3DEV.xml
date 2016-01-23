@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-100</version>
+        <version>3-DEV-101</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1421,7 +1421,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Vein Miner,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
+             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
              />
 
         <mod name="Ancient Warfare 2" version="2.4.113" 
@@ -1688,8 +1688,8 @@
              description="Tubes provides the best item transport and sorting solution for all  your transport, sorting, and automation needs." 
              />
  
-        <mod name="Vein Miner" 
-             version="0.31.1" url="packs/ResonantRise/files/3.3.x/096/VeinMiner-1.7.10_0.31.1.unknown.jar" file="VeinMiner-1.7.10_0.31.1.unknown.jar" md5="c3818f1e78333e277df36c2c964ad560" download="server" 
+        <mod name="Veinminer" 
+             version="0.27.1" url="packs/ResonantRise/files/3.3.x/VEINMINER-1.7.10_0.27.1.UNKNOWN.jar" file="VEINMINER-1.7.10_0.27.1.UNKNOWN.jar" md5="8f0c364606ec153f6fece1bb65d9642a" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L" 
              authors="portablejim" 
