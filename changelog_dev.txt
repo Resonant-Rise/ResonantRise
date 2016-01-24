@@ -1,5 +1,42 @@
 =================
-Build 101
+Build 102 / 3.3.0.1-RC (Stealth Patch)
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+fixed journey map... again.
+
+-- Dev only --
+n/a
+
+=================
+Build 101 / 3.3.0.1-RC
 =================
 
 ==Dependancies (Core)==

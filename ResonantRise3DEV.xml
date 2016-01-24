@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-101</version>
+        <version>3-DEV-102</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1747,22 +1747,22 @@
              authors="Player" 
              description="FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support." 
              />
-        
+
         <mod name="Journey Map" version="5.1.3" 
-             url="http://www.curse.com/mc-mods/minecraft/journeymap-32274/2269314" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
+             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2269314/download" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
              type="mods" optional="yes" selected="no" recommended="no" server="no" group="minimap"
              website="http://journeymap.techbrew.net/" donation="https://www.patreon.com/techbrew?ty=h"
              authors="techbrew"
              description="JourneyMap is a client mod for Forge which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen." 
              />
 
-        <mod name="Journey Map - Server" version="1.0.5" 
-             url="http://www.curse.com/mc-mods/minecraft/225341-journeymap-server/2232619" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct"
+        <!--<mod name="JourneyMapServer" version="1.0.5" 
+             url="http://minecraft.curseforge.com/projects/journeymap-server/files/2232619/download" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct" 
              type="mods" optional="yes" selected="no" recommended="no" server="yes" client="no" group="minimap"
-             website="http://www.curse.com/mc-mods/minecraft/225341-journeymap-server" donation="https://www.patreon.com/techbrew?ty=h"
-             authors="techbrew, mysticdrew"
-             description="JourneyMap Server is a server side utility which supports the use of the JourneyMap Client Mod. As of the 1.0 release, the jar file can be used in both Forge servers and Bukkit servers. Allows Server control of Radar and Cave Mapping, as well as, Multi-world Support for Maps and Waypoints. Server owners are encouaged to visit the curse page for Journey Map - Server on our mods spreadsheet provided by ATL."
-             />
+             website="http://www.curseforge.com/projects/225341/" 
+             authors="mysticdrew,techbrew" 
+             description="Server-Side control for JourneyMap Features" 
+             />-->
     
         <mod name="Morpheus" 
              version="1.7.10-1.6.18" url="packs/ResonantRise/files/3.3.x/096/Morpheus-1.7.10-1.6.18.jar" file="Morpheus-1.7.10-1.6.18.jar" md5="d9515a99bfba89b92639dac6847220f4" download="server"
