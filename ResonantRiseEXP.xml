@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3.3.0.0</version>
+        <version>3.3.0.1</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -28,7 +28,7 @@
 
 <!-- Warnings -->
     <warnings>
-        <warning name="mcrop"><![CDATA[Magical Crops does not work with Opis/Mapwriter, selectingone will disable the other.]]></warning>
+        <warning name="ReCubed"><![CDATA[Server Operators: If you select ReCubed, your players MUST also use it, other wise they cannot join the server.]]></warning>
     </warnings>
 
 
@@ -218,8 +218,8 @@
              description="Adds FMP support to ForgeRelocation." 
              />
 
-        <mod name="libsandstone" version="1.0.0" 
-             url="packs/ResonantRise/files/3.x/LibSandstone-1.0.0.jar" file="LibSandstone-1.0.0.jar" md5="1ab495f90923a2d0c67541d1e88ec32f" download="server" 
+        <mod name="libsandstone" 
+             version="1.0.0" url="packs/ResonantRise/files/3.3.x/096/LibSandstone-1.0.0.jar" file="LibSandstone-1.0.0.jar" md5="d662061db2876da2f718addc8202763b" download="server"
              type="dependency" 
              website="http://www.minecraftforum.net/topic/1596973-" 
              authors="x3n0ph0b3,TheMike" 
@@ -356,13 +356,13 @@
              description="This is the core mod that will be used bu most of my mods from now on" 
              />
 
-        <mod name="ChatFlow" 
+        <!--<mod name="ChatFlow" 
              version="1.0" url="packs/ResonantRise/files/3.3.x/096/ChatFlow-1.1.jar" file="ChatFlow-1.1.jar" md5="256af86efeb2080386c999e1d33dca64" download="server" 
              type="mods" server="no"
              website="http://www.curseforge.com/projects/231453/" 
              authors="Vazkii" 
              description="Full control of incoming chat messages via Regex" 
-             />
+             />-->
 
         <mod name="ChickenChunks" 
              version="1.3.4.19" url="packs/ResonantRise/files/3.3.x/096/ChickenChunks-1.7.10-1.3.4.19-universal.jar" file="ChickenChunks-1.7.10-1.3.4.19-universal.jar" md5="5592eda79bd2b52adf1d4bdceaa59b73" download="server" 
@@ -635,8 +635,8 @@
              description="Moar barrels  The Jabba team would like to thank the Academy for this award... oh wait... *cough* erm... Credits to neptunepink for the original barrel idea, Q and his community for the name, special thanks to skyboy for rendering assistance and the DSU, and the many people whom have made modded MC such an awesome thing to be a part of." 
              />
 
-        <mod name="Java 7 Checker" 
-             version="1.0" url="packs/ResonantRise/files/3.3.x/JAVA7CHECKER  MC-1.7.10  V1.1.jar" file="JAVA7CHECKER  MC-1.7.10  V1.1.jar" md5="df320acb38beec3cf0a2e6b535811d8f" download="server" 
+        <mod name="Java 7 Checker" version="2.0"
+             url="packs/ResonantRise/files/3.3.x/096/Java7Checker  MC-UNIVERSAL  v2.0.jar" file="Java7Checker  MC-UNIVERSAL  v2.0.jar" md5="adeb7e599b9ff7531173e93a9c2b3332" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/226991/" 
              authors="chylex" 
@@ -907,20 +907,20 @@
              description="Random Things packed into one Mod." 
              />
 
-        <mod name="ReCubed" version="1.1-4" 
-             url="packs/ResonantRise/files/3.3.x/096/ReCubed 1.1-4.jar" file="ReCubed 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server" 
-             type="mods" 
-             website="http://www.curseforge.com/projects/231452/" 
-             authors="Vazkii" 
-             description="A mod that tracks all sorts of stats." 
-             />
-
         <mod name="Refined Relocation" 
              version="1.1.12" url="packs/ResonantRise/files/3.3.x/RefinedRelocation-mc1.7.10-1.1.12.jar" file="RefinedRelocation-mc1.7.10-1.1.12.jar" md5="95886de61a29d541962d50d30324b8a1" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/75811/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/refined-relocation?gameCategorySlug=mc-mods&amp;projectID=75811&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=iDynious%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="Dynious,dmillerw" 
              description="Filter, sort and relocate!" 
+             />
+
+        <mod name="Reliquary" 
+             version="1.2" url="packs/ResonantRise/files/3.3.x/096/Reliquary-1.2.257.jar" file="Reliquary-1.2.257.jar" md5="7b571b97af1abdd114962bda6fa04576" download="server" 
+             type="mods" 
+             website="http://www.curseforge.com/projects/59713/" 
+             authors="x3n0ph0b3,TheMike" 
+             description="Two words: magical swag. Oh, and a gun." 
              />
 
         <mod name="Simply Jetpacks" 
@@ -1086,7 +1086,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Select me to activate ALL mods in Mainline."
-             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative"
+             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative,Calculator,Calculator Assembly Fix"
              />
 
     <!-- Mainline Mods (Alphabetized and sorted under Parents)-->
@@ -1153,6 +1153,22 @@
              website="http://www.curseforge.com/projects/232838/" 
              authors="RS485,davboecki,theZorro266" 
              description="Logistics Pipes is an extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes,..." 
+             />
+
+        <mod name="Calculator" 
+             version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
+             type="mods" optional="yes" recommended="no" depends="Calculator Assembly Fix"
+             website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
+             authors="SonarSonic"
+             description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes.  Change the way you craft, change the way you play, change the way you think.  This mod is currently still in development and I am welcoming new ideas for additions to the mod.  Thank you for trying the Calculator Mod" 
+             />
+
+        <mod name="Calculator Assembly Fix" version="1.0" colour="For"
+             url="packs/ResonantRise/files/Scripts/CalcFix.zip" file="CalcFix.zip" md5="a0c9ffffefb21153b593ab3dcf371ed4" download="server"
+             type="extract" extractto="root" optional="yes" recommended="no" depends="Calculator" linked="Calculator"
+             website="http://resonant-rise.com"
+             authors="RR Dev Team"
+             description="Fixes recipe conflict with OpenComputers Keypad."
              />
 
         <mod name="Carpenter&apos;s Blocks" 
@@ -1405,7 +1421,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Calculator,Calculator Assembly Fix,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Vein Miner,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
+             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
              />
 
         <mod name="Ancient Warfare 2" version="2.4.113" 
@@ -1462,22 +1478,6 @@
              website="http://www.bibliocraftmod.com" 
              authors="Joseph &apos;Nuchaz&apos; Sinclair" 
              description="Adds support for 16 varietys of wood from Biomes O&apos;Plenty for 8 of the wooden block in BiblioCraft." 
-             />
-
-        <mod name="Calculator" 
-             version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
-             type="mods" optional="yes" recommended="no" depends="Calculator Assembly Fix"
-             website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
-             authors="SonarSonic"
-             description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes.  Change the way you craft, change the way you play, change the way you think.  This mod is currently still in development and I am welcoming new ideas for additions to the mod.  Thank you for trying the Calculator Mod" 
-             />
-
-        <mod name="Calculator Assembly Fix" version="1.0" colour="For"
-             url="packs/ResonantRise/files/Scripts/CalcFix.zip" file="CalcFix.zip" md5="a0c9ffffefb21153b593ab3dcf371ed4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" depends="Calculator" linked="Calculator"
-             website="http://resonant-rise.com"
-             authors="RR Dev Team"
-             description="Fixes recipe conflict with OpenComputers Keypad."
              />
 
         <mod name="Compact Machines" 
@@ -1616,14 +1616,6 @@
              description="Adds a paste form of redstone, which can stick to various surfaces." 
              />
 
-        <mod name="Reliquary" 
-             version="1.2" url="packs/ResonantRise/files/3.3.x/RELIQUARY-1.2.jar" file="RELIQUARY-1.2.jar" md5="adf9e55b148508bb64354db31f7de255" download="server" 
-             type="mods" optional="yes" recommended="no"
-             website="http://www.curseforge.com/projects/59713/" 
-             authors="x3n0ph0b3,TheMike" 
-             description="Two words: magical swag. Oh, and a gun." 
-             />
-
         <mod name="RFTools" 
              version="4.20" url="packs/ResonantRise/files/3.3.x/rftools-4.20.jar" file="rftools-4.20.jar" md5="d1f477e9dd94eec77159a812f52cbd6d" download="server"
              type="mods" optional="yes" recommended="no"
@@ -1696,8 +1688,8 @@
              description="Tubes provides the best item transport and sorting solution for all  your transport, sorting, and automation needs." 
              />
  
-        <mod name="Vein Miner" 
-             version="0.31.1" url="packs/ResonantRise/files/3.3.x/096/VeinMiner-1.7.10_0.31.1.unknown.jar" file="VeinMiner-1.7.10_0.31.1.unknown.jar" md5="c3818f1e78333e277df36c2c964ad560" download="server" 
+        <mod name="Veinminer" 
+             version="0.27.1" url="packs/ResonantRise/files/3.3.x/VEINMINER-1.7.10_0.27.1.UNKNOWN.jar" file="VEINMINER-1.7.10_0.27.1.UNKNOWN.jar" md5="8f0c364606ec153f6fece1bb65d9642a" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://minecraft.curseforge.com/mc-mods/veinminer/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/veinminer?gameCategorySlug=mc-mods&amp;projectID=67133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dcseee-ebay%40yahoo.com.au&amp;bn=PP-DonationsBF:btn_donateCC_L" 
              authors="portablejim" 
@@ -1755,37 +1747,21 @@
              authors="Player" 
              description="FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support." 
              />
-        
+
         <mod name="Journey Map" version="5.1.3" 
-             url="http://minecraft.curseforge.com/projects/journeymap-32274/files/2269314" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
+             url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2269314/download" file="journeymap-1.7.10-5.1.3-unlimited.jar" download="direct"
              type="mods" optional="yes" selected="no" recommended="no" server="no" group="minimap"
              website="http://journeymap.techbrew.net/" donation="https://www.patreon.com/techbrew?ty=h"
              authors="techbrew"
              description="JourneyMap is a client mod for Forge which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen." 
              />
 
-        <mod name="Journey Map - Server" version="1.0.5" 
-             url="http://minecraft.curseforge.com/mc-mods/225341-journeymap-server/files/2232619/download" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct"
+        <!--<mod name="JourneyMapServer" version="1.0.5" 
+             url="http://minecraft.curseforge.com/projects/journeymap-server/files/2232619/download" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct" 
              type="mods" optional="yes" selected="no" recommended="no" server="yes" client="no" group="minimap"
-             website="http://www.curse.com/mc-mods/minecraft/225341-journeymap-server" donation="https://www.patreon.com/techbrew?ty=h"
-             authors="techbrew, mysticdrew"
-             description="JourneyMap Server is a server side utility which supports the use of the JourneyMap Client Mod. As of the 1.0 release, the jar file can be used in both Forge servers and Bukkit servers. Allows Server control of Radar and Cave Mapping, as well as, Multi-world Support for Maps and Waypoints. Server owners are encouaged to visit the curse page for Journey Map - Server on our mods spreadsheet provided by ATL."
-             />
-
-        <!--<mod name="Mobius Core" version="1.2.5" 
-             url="packs/ResonantRise/files/3.x/MobiusCore-1.2.5_1.7.10.jar" file="MobiusCore-1.2.5_1.7.10.jar" md5="29990acae6a30d35057380222be87294" download="server"
-             type="mods" optional="yes" selected="no" recommended="no" client="yes" server="yes" colour="TC4" warning="mcrop"
-             website="http://www.curse.com/mc-mods/minecraft/mobiuscore" donation="http://www.patreon.com/profmobius"
-             authors="ProfMobius"
-             description="Core libs and files for some of ProfMobius' mods" 
-             />-->
-
-        <!--<mod name="Opis" version="1.2.5" 
-             url="packs/ResonantRise/files/3.x/Opis-1.2.5_1.7.10.jar" file="Opis-1.2.5_1.7.10.jar" md5="82e98ab306d952f3371a514333c226b4" download="server"
-             type="mods" linked="Mobius Core" depends="Mobius Core" optional="yes" selected="no" recommended="no" client="yes" server="yes"  colour="TC4"
-             website="http://minecraft.curseforge.com/mc-mods/73832-opis" donation="http://www.patreon.com/profmobius" 
-             authors="ProfMobius"
-             description="Tool to get statistics and read-outs from your server or client, as well as tools to help you find high tick chunks, items, entities, and players... oh and has custom version of MapWriter" 
+             website="http://www.curseforge.com/projects/225341/" 
+             authors="mysticdrew,techbrew" 
+             description="Server-Side control for JourneyMap Features" 
              />-->
     
         <mod name="Morpheus" 
@@ -1802,6 +1778,14 @@
              website="http://www.curse.com/mc-mods/minecraft/mouse-tweaks" donation="https://www.paypal.com/cgi-bin/webscr?return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http%3a%2f%2fwww.curse.com%2fproject%2f60089&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
              authors="YaLTeR97"
              description="Adds inventory based item dragging and more!" 
+             />
+
+        <mod name="ReCubed" version="1.1-4" 
+             url="packs/ResonantRise/files/3.3.x/096/ReCubed 1.1-4.jar" file="ReCubed 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server" 
+             type="mods" warning="ReCubed" optional="yes" selected="no" recommended="no"
+             website="http://www.curseforge.com/projects/231452/" 
+             authors="Vazkii" 
+             description="A mod that tracks all sorts of stats." 
              />
 
         <mod name="TC Node Tracker" 
@@ -1826,7 +1810,7 @@
              website="http://www.liteloader.com/mod/voxelmap" 
              authors="MamiyaOtaru"
              description="Radar, Waypoints, Cave Mode... in a neat and clean package." 
-             />        
+             /> 
 
     </mods>
 

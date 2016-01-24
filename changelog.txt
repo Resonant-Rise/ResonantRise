@@ -1,5 +1,229 @@
 =================
-Build 096
+Build 102 / 3.3.0.1-RC (Stealth Patch)
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+fixed journey map... again.
+
+-- Dev only --
+n/a
+
+=================
+Build 101 / 3.3.0.1-RC
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+Veinminer (0.27.1) (Downgrade)
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Downgraded Veinminer to fix a small issue reported by xXXStrykerXXx, while it never showed up in testing, the upgraded version didn't change enough to make a difference that we need to worry about at this time.
+
+-- Dev only --
+n/a
+
+=================
+Build 100
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Calculator/Calculator Assembly Fix - Moved to Mainline.
+
+-- Dev only --
+n/a
+
+=================
+Build 099
+=================
+
+==Dependancies (Core)==
+LibSandstone (1.0.0)
+Java7Checker (2.0)
+
+==Lite (Core)==
+Xeno's Reliquary (1.2.257)
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+ReCubed was moved to optionals, larger public servers reported issues with the mod getting overloaded from player count. Note: IF your a server owner who wishes to continue using ReCubed, ALL clients must use it as well.
+
+-- Dev only --
+n/a
+
+=================
+Build 098
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+Chatflow - The reason the mod was added, was fixed two days before release, and was missed during second check phase. This has been fixed now, and should have little to no affect on clients/servers.
+
+==Configs==
+Project: Red - Extra ores have been turned off, worlds DO NOT need to be reset.
+Ender IO config - Added more tools to the farming stations. Most if not all Hoes should now work with the stations.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 097/3.3.0.0 (stealth patch)
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+--Universal--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+Fixed Journey Map download URL in XML 
+
+-- Dev only --
+n/a
+
+=================
+Build 096/3.3.0.0
 =================
 
 ==Dependancies (Core)==
