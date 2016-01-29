@@ -1,4 +1,53 @@
 =================
+Build 103
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+Applied Energistics 2 [rv3-beta-5]
+CoFHCore [3.1.0-323]
+CoFHLib [1.1.1-181]
+EnderIO [2.3.0.423_beta]
+Forbidden Magic [0.573]
+Guide-API [1.0.1-23]
+MineFactoryReloaded [2.8.1-174]
+RedstoneArsenal [1.1.2-92]
+ThermalExpansion [4.1.1-237]
+ThermalFoundation [1.2.2-111]
+ThermalSmeltery [1.3.1.4]
+NetherOres [2.3.1-22]
+Technomancy [0.12.4]
+SonarCore [1.0.4]
+
+==Mainline (Optional/Recomended)==
+Calculator [1.9.3]
+EnderZoo [1.0.15.32]
+ImmersiveEngineering [0.7.1.2]
+
+==Optionals==
+AncientWarfare 2 [4.114-beta]
+PneumaticCraft [1.12.4-147]
+
+--Client Only--
+CoFHTweaks [1.1.0-82]
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Magical Crops - added script to fix silicon required to make Inscriber Silicon Press
+
+==Misc.==
+RFTools moved to Mainline.
+
+-- Dev only --
+n/a
+
+=================
 Build 102 / 3.3.0.1-RC (Stealth Patch)
 =================
 

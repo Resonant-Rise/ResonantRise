@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-102</version>
+        <version>3-DEV-103</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -237,7 +237,7 @@
     <!-- Lite: Core Mods (Alphabetized and sorted under Parents) -->
     
         <mod name="Applied Energistics 2" 
-             version="rv3-beta-1" url="packs/ResonantRise/files/3.3.x/appliedenergistics2-rv3-beta-1.jar" file="appliedenergistics2-rv3-beta-1.jar" md5="d8644c293cc5cf7adebb642d87f57c3e" download="server"
+             version="rv3-beta-5" url="packs/ResonantRise/files/3.3.x/096/appliedenergistics2-rv3-beta-5.jar" file="appliedenergistics2-rv3-beta-5.jar" md5="e74c21dd18cdc9c6477fc667d15e388f" download="server"
              type="mods" 
              website="http://ae2.ae-mod.info" 
              authors="AlgorithmX2" 
@@ -389,15 +389,15 @@
              />
 
         <mod name="CoFH Core" 
-             version="3.0.3" url="packs/ResonantRise/files/3.3.x/COFHCORE-[1.7.10]3.0.3-303.jar" file="COFHCORE-[1.7.10]3.0.3-303.jar" md5="2ffdab52f8536f02f34a9d9230ca24dd" download="server" 
+             version="3.1.0-323" url="packs/ResonantRise/files/3.3.x/096/CoFHCore-[1.7.10]3.1.0-323.jar" file="CoFHCore-[1.7.10]3.1.0-323.jar" md5="d60a61e273c7b5b90739d7b66549c9d9" download="server"
              type="mods" 
              website="http://www.teamcofh.com" 
              authors="Team CoFH" 
              description="Required for all CoFH Mods. Also provides some customization options for Minecraft." 
              />
 
-        <mod name="CoFHLib" 
-             version="1.0.3-175" url="packs/ResonantRise/files/3.3.x/COFHLIB-[1.7.10]1.0.3-175.jar" file="COFHLIB-[1.7.10]1.0.3-175.jar" md5="56d4419ee75a25839de12732735dc1a5" download="server" 
+        <mod name="CoFHLib" version="1.1.1-181" 
+             url="packs/ResonantRise/files/3.3.x/096/CoFHLib-[1.7.10]1.1.1-181.jar" file="CoFHLib-[1.7.10]1.1.1-181.jar" md5="8cb2111dc485ebb021180cf4555056b8" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/220333/" 
              authors="TeamCoFH,Jadedcat,KingLemming,skyboy026,ZeldoKavira" 
@@ -484,7 +484,7 @@
              />
 
         <mod name="Ender IO" 
-             version="2.3.0.422_beta" url="packs/ResonantRise/files/3.3.x/096/EnderIO-1.7.10-2.3.0.422_beta.jar" file="EnderIO-1.7.10-2.3.0.422_beta.jar" md5="96f6476825904c44b318ec2d64ac5672" download="server"  
+             version="2.3.0.423_beta" url="packs/ResonantRise/files/3.3.x/096/EnderIO-1.7.10-2.3.0.423_beta.jar" file="EnderIO-1.7.10-2.3.0.423_beta.jar" md5="fac0e8afaf8422985d8993af07e6ef7e" download="server" 
              type="mods" 
              website="http://enderio.com" 
              authors="CrazyPants,tterrag" 
@@ -564,7 +564,7 @@
              />
 
         <mod name="Guide-API" 
-             version="1.7.10-1.0.1-20" url="packs/ResonantRise/files/3.3.x/GUIDE-API-1.7.10-1.0.1-20.jar" file="GUIDE-API-1.7.10-1.0.1-20.jar" md5="272bc0a7317e2888ce8a9531b83e607d" download="server" 
+             version="1.7.10-1.0.1-23" url="packs/ResonantRise/files/3.3.x/096/Guide-API-1.7.10-1.0.1-23.jar" file="Guide-API-1.7.10-1.0.1-23.jar" md5="595cb339f500071627b1f3ab731fa8b7" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/228832/" 
              authors="Tombenpotter,TehNut" 
@@ -724,8 +724,8 @@
              description="McJtyLib library for RFTools, Deep Resonance, ..." 
              />
 
-        <mod name="Minefactory Reloaded" version="2.8.0-104" 
-             url="packs/ResonantRise/files/3.3.x/MINEFACTORYRELOADED-[1.7.10]2.8.0-104.jar" file="MINEFACTORYRELOADED-[1.7.10]2.8.0-104.jar" md5="51f38281ef847b479f38aa5fe087be4a" download="server" 
+        <mod name="Minefactory Reloaded"
+             version="2.8.1-174" url="packs/ResonantRise/files/3.3.x/096/MineFactoryReloaded-[1.7.10]2.8.1-174.jar" file="MineFactoryReloaded-[1.7.10]2.8.1-174.jar" md5="690ebc0ca27dfbeff2c8111f413e96ad" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/66672/" 
              authors="skyboy026" 
@@ -860,7 +860,7 @@
              />
 
         <mod name="Nether Ores" 
-             version="2.3.0" url="packs/ResonantRise/files/3.3.x/NETHERORES-[1.7.10]2.3.0-12.jar" file="NETHERORES-[1.7.10]2.3.0-12.jar" md5="c8b5264bbf6670923e021fd3d6c047f7" download="server" 
+             version="2.3.1-22" url="packs/ResonantRise/files/3.3.x/096/NetherOres-[1.7.10]2.3.1-22.jar" file="NetherOres-[1.7.10]2.3.1-22.jar" md5="78980ff5bea5c0de0b0a27edff94225b" download="server"
              type="mods" 
              website="http://minecraft.curseforge.com/mc-mods/netherores/" 
              authors="PowerCrystals,TehKrush,AtomicStryker,skyboy026" 
@@ -908,7 +908,7 @@
              />
 
         <mod name="Refined Relocation" 
-             version="1.1.12" url="packs/ResonantRise/files/3.3.x/RefinedRelocation-mc1.7.10-1.1.12.jar" file="RefinedRelocation-mc1.7.10-1.1.12.jar" md5="95886de61a29d541962d50d30324b8a1" download="server"
+             version="1.1.16" url="packs/ResonantRise/files/3.3.x/096/RefinedRelocation-mc1.7.10-1.1.16.jar" file="RefinedRelocation-mc1.7.10-1.1.16.jar" md5="1af61574e69a6214ff610c55c8b8efb0" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/75811/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/refined-relocation?gameCategorySlug=mc-mods&amp;projectID=75811&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=iDynious%40gmail.com&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="Dynious,dmillerw" 
@@ -948,7 +948,7 @@
              />
 
         <mod name="Forbidden Magic" 
-             version="1.7.10-0.572" url="packs/ResonantRise/files/3.3.x/Forbidden Magic-1.7.10-0.572.jar" file="Forbidden Magic-1.7.10-0.572.jar" md5="eaefd42ca7833aef96c12166c2460a88" download="server"
+             version="1.7.10-0.573" url="packs/ResonantRise/files/3.3.x/096/Forbidden Magic-1.7.10-0.573.jar" file="Forbidden Magic-1.7.10-0.573.jar" md5="4dc872e44050a21d212e9f60732fa8a2" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/topic/2305054-/" 
              authors="SpitefulFox" 
@@ -972,7 +972,7 @@
              />
 
         <mod name="Technomancy" 
-             version="0.12.2" url="packs/ResonantRise/files/3.3.x/096/Technomancy - 0.12.2 - 1.7.10.jar" file="Technomancy - 0.12.2 - 1.7.10.jar" md5="77ef0356a599e19535cb402b6154b4c2" download="server" 
+             version="0.12.4 - 1.7.10" url="packs/ResonantRise/files/3.3.x/096/Technomancy - 0.12.4 - 1.7.10.jar" file="Technomancy - 0.12.4 - 1.7.10.jar" md5="7d1b939aeeb7a319ffdce17dd8f1a8fa" download="server"
              type="mods" 
              website="http://www.curse.com/mc-mods/minecraft/229912-technomancy" 
              authors="Democretes,theflogat,Mordenkainen" 
@@ -980,7 +980,7 @@
              />
 
         <mod name="Thermal Foundation" 
-             version="1.2.0" url="packs/ResonantRise/files/3.3.x/THERMALFOUNDATION-[1.7.10]1.2.0-102.jar" file="THERMALFOUNDATION-[1.7.10]1.2.0-102.jar" md5="8c79648de65ca6caecfb0cbb58ae81e2" download="server" 
+             version="1.2.2-111" url="packs/ResonantRise/files/3.3.x/096/ThermalFoundation-[1.7.10]1.2.2-111.jar" file="ThermalFoundation-[1.7.10]1.2.2-111.jar" md5="5dcb7f154deadda35b1aca6312743fdc" download="server"
              type="mods" 
              website="http://www.teamcofh.com" 
              authors="Team CoFH" 
@@ -996,7 +996,7 @@
              />
 
         <mod name="Thermal Expansion" 
-             version="4.0.3B1" url="packs/ResonantRise/files/3.3.x/THERMALEXPANSION-[1.7.10]4.0.3B1-218.jar" file="THERMALEXPANSION-[1.7.10]4.0.3B1-218.jar" md5="91e0bf4dd569c9f71e873186b51b5712" download="server" 
+             version="4.1.1" url="packs/ResonantRise/files/3.3.x/096/ThermalExpansion-[1.7.10]4.1.1-237.jar" file="ThermalExpansion-[1.7.10]4.1.1-237.jar" md5="b6bcfca993b826d85ab13903f3800eba" download="server" 
              type="mods" 
              website="http://www.teamcofh.com" 
              authors="Team CoFH" 
@@ -1012,15 +1012,15 @@
              />
 
         <mod name="Redstone Arsenal" 
-             version="1.1.1" url="packs/ResonantRise/files/3.3.x/REDSTONEARSENAL-[1.7.10]1.1.1-89.jar" file="REDSTONEARSENAL-[1.7.10]1.1.1-89.jar" md5="ee83d9f95974bf942eabc7f649d792dd" download="server" 
+             version="1.1.2" url="packs/ResonantRise/files/3.3.x/096/RedstoneArsenal-[1.7.10]1.1.2-92.jar" file="RedstoneArsenal-[1.7.10]1.1.2-92.jar" md5="72f8414b856d40b07d6837560f067acc" download="server"
              type="mods" 
              website="http://www.teamcofh.com" 
              authors="Team CoFH" 
              description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" 
              />
 
-        <mod name="Thermal Smeltery" 
-             version="1.7.10-1.2.1" url="packs/ResonantRise/files/3.3.x/THERMALSMELTERY-1.7.10-1.2.1.jar" file="THERMALSMELTERY-1.7.10-1.2.1.jar" md5="4e3ac57d2812c342554f65ed562985a7" download="server" 
+        <mod name="Thermal Smeltery" version="1.3.1.4"
+             url="packs/ResonantRise/files/3.3.x/096/ThermalSmeltery-1.3.1.4.jar" file="ThermalSmeltery-1.3.1.4.jar" md5="a7e1e8869dfed8f9b32f7598032fe696" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/227661/" 
              authors="Drullkus" 
@@ -1086,7 +1086,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Select me to activate ALL mods in Mainline."
-             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative,Calculator,Calculator Assembly Fix"
+             depends="Advanced Generators,Frame Fix,AgriCraft,BiblioWoods Forestry,Botania,Buildcraft,Buildcraft Additions,Buildcraft Compat,Eureka,Logistics Pipes,Carpenter's Blocks,Chisel 2,Chisel Facades,More Chisels,Computronics,Draconic Evolution,Ender Zoo,EnhancedPortals,Forestry,Binnie's Mods,Gendustry,Magic Bees,BiblioWoods Forestry Edition,Grimoire of Gaia 3,Immersive Engineering,Immersive Integration,Mekanism,MekanismTools,MekanismGenerators,QuiverBow,Railcraft,Solar Flux,Soul Shards Reborn,Steve's Carts,Steve's Factory Manager,Steve's Addons,Steve's Workshop,Witchery,Magical Crops: Core,Magical Crops: Armoury,Magical Crops: Decorative,Calculator,Calculator Assembly Fix,Press Fix"
              />
 
     <!-- Mainline Mods (Alphabetized and sorted under Parents)-->
@@ -1157,7 +1157,7 @@
 
         <mod name="Calculator" 
              version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
-             type="mods" optional="yes" recommended="no" depends="Calculator Assembly Fix"
+             type="mods" optional="yes" recommended="yes" depends="Calculator Assembly Fix"
              website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="SonarSonic"
              description="Whoever said Calculators were boring?! Awesome Calculators, crazy items, mind-blowing machines and hundreds of hidden recipes.  Change the way you craft, change the way you play, change the way you think.  This mod is currently still in development and I am welcoming new ideas for additions to the mod.  Thank you for trying the Calculator Mod" 
@@ -1165,7 +1165,7 @@
 
         <mod name="Calculator Assembly Fix" version="1.0" colour="For"
              url="packs/ResonantRise/files/Scripts/CalcFix.zip" file="CalcFix.zip" md5="a0c9ffffefb21153b593ab3dcf371ed4" download="server"
-             type="extract" extractto="root" optional="yes" recommended="no" depends="Calculator" linked="Calculator"
+             type="extract" extractto="root" optional="yes" recommended="yes" depends="Calculator" linked="Calculator"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Fixes recipe conflict with OpenComputers Keypad."
@@ -1211,7 +1211,7 @@
              />
 
         <mod name="Ender Zoo" 
-             version="1.7.10-1.0.4.12_beta" url="packs/ResonantRise/files/3.3.x/096/EnderZoo-1.7.10-1.0.4.12_beta.jar" file="EnderZoo-1.7.10-1.0.4.12_beta.jar" md5="2299a8fdae51cc4552948ab6622ce516" download="server"
+             version="1.7.10-1.0.15.32" url="packs/ResonantRise/files/3.3.x/096/EnderZoo-1.7.10-1.0.15.32.jar" file="EnderZoo-1.7.10-1.0.15.32.jar" md5="577531417d0dc93fc264631f100f53ba" download="server"
              type="mods" optional="yes" recommended="yes"  
              website="http://enderio.com" 
              authors="crazypants" 
@@ -1276,7 +1276,7 @@
              />
 
         <mod name="Immersive Engineering" 
-             version="0.6.5.1" url="packs/ResonantRise/files/3.3.x/ImmersiveEngineering-0.6.5.1.jar" file="ImmersiveEngineering-0.6.5.1.jar" md5="08ce1063864597f9664e10ce9895b7e2" download="server"
+             version="0.7.1.2" url="packs/ResonantRise/files/3.3.x/096/ImmersiveEngineering-0.7.1.2.jar" file="ImmersiveEngineering-0.7.1.2.jar" md5="fedbd3ce92854a68cf410a7ba528fa53" download="server"
              type="mods" optional="yes" recommended="yes"  
              website="http://www.curseforge.com/projects/231951/" 
              authors="BluSunrize,Damien A.W. Hazard" 
@@ -1298,6 +1298,14 @@
              authors="Mark719" 
              description="A Magical farming mod that allows you to grow and harvest all 
              type of Minecraft resources, and make many magical items and armours. Also a massive thank you to the Painterly Pack team for giving me permission to use and edit some of there fantastic Minecraft textures!" 
+             />
+
+         <mod name="Press Fix" version="1.0" colour="For"
+             url="packs/ResonantRise/files/3.3.x/096/PressFix.zip" file="PressFix.zip" md5="9852ed557dbc7ca345b6b3adf949236a" download="server"
+             type="extract" extractto="root" optional="yes" recommended="yes" depends="Magical Crops: Core" linked="Magical Crops: Core"
+             website="http://resonant-rise.com"
+             authors="RR Dev Team"
+             description="Fixes recipe issue with Inscriber Silicon Press."
              />
 
         <mod name="Magical Crops: Armoury" version="4.0.0_PUBLIC_BETA_4" 
@@ -1364,7 +1372,7 @@
              />
 
         <mod name="SonarCore" 
-             version="1.0.0" url="packs/ResonantRise/files/3.3.x/096/SonarCore-1.7.10-1.0.0.jar" file="SonarCore-1.7.10-1.0.0.jar" md5="58a0779d6f470c257e14a8068bacbc67" download="server" 
+             version="1.0.4" url="packs/ResonantRise/files/3.3.x/096/SonarCore-1.7.10-1.0.4.jar" file="SonarCore-1.7.10-1.0.4.jar" md5="b399b0c42f4a02ab5dcec08d15567f6b" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/239418/" 
              authors="Ollie Lansdell" 
@@ -1424,8 +1432,8 @@
              depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
              />
 
-        <mod name="Ancient Warfare 2" version="2.4.113" 
-             url="packs/ResonantRise/files/3.3.x/096/ancientwarfare-2.4.113-beta-MC1.7.10-FULL.jar" file="ancientwarfare-2.4.113-beta-MC1.7.10-FULL.jar" md5="0e4bdd98b22a7492dbc8307d437a166f" download="server"
+        <mod name="Ancient Warfare 2" version="2.4.114" 
+             url="packs/ResonantRise/files/3.3.x/096/ancientwarfare-2.4.114-beta-MC1.7.10-FULL.jar" file="ancientwarfare-2.4.114-beta-MC1.7.10-FULL.jar" md5="614245a9d5027af7767965dee0cf854f" download="server"
              type="mods" optional="yes" recommended="no" 
              website="http://www.curseforge.com/projects/224602/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/ancient-warfare-2?gameCategorySlug=mc-mods&amp;projectID=224602&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=shadowmage45%40hotmail.com&amp;bn=PP-DonationsBF:btn_d" 
              authors="shadowmage45" 
@@ -1577,7 +1585,7 @@
              />
 
         <mod name="PneumaticCraft" 
-             version="1.12.3-146" url="packs/ResonantRise/files/3.3.x/PneumaticCraft-1.7.10-1.12.3-146-universal.jar" file="PneumaticCraft-1.7.10-1.12.3-146-universal.jar" md5="185ebf23fe78e505a1a26d1ba5f1950b" download="server"
+             version="1.12.4-147" url="packs/ResonantRise/files/3.3.x/096/PneumaticCraft-1.7.10-1.12.4-147-universal.jar" file="PneumaticCraft-1.7.10-1.12.4-147-universal.jar" md5="94734966e537080d3a6260d83243a623" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minemaarten.com" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/pneumaticcraft?gameCategorySlug=mc-mods&amp;projectID=224125&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=loopycoaster_8%40hotmail.com&amp;bn=PP-DonationsBF:btn_do" 
              authors="MineMaarten" 
@@ -1732,6 +1740,14 @@
              description="Client Mods"
              />
 
+        <mod name="CoFHTweaks" version="1.1.0-82" 
+             url="packs/ResonantRise/files/3.3.x/096/CoFHTweaks-[1.7.10]1.1.0-82.jar" file="CoFHTweaks-[1.7.10]1.1.0-82.jar" md5="031c5dbfd6777230b41c94ac89cdb73d" download="server" 
+             type="mods" optional="yes" recommended="no" group="tweak"
+             website="http://www.curseforge.com/projects/230020/" 
+             authors="skyboy026,TeamCoFH" 
+             description="Various performance improvements" 
+             />
+
         <mod name="EiraIRC"
              version="2.9.396" url="packs/ResonantRise/files/3.3.x/096/eirairc-mc1.7.10-2.9.396.jar" file="eirairc-mc1.7.10-2.9.396.jar" md5="48464b6b9e406d9d37e828acaca26271" download="server"
              type="mods" optional="yes" recommended="no"
@@ -1742,7 +1758,7 @@
           
         <mod name="FastCraft" version="1.21" 
              url="packs/ResonantRise/files/3.x/fastcraft-1.21.jar" file="fastcraft-1.21.jar" md5="f1f33a007d6a78d68e6bb217a6ffdb9e" download="server"
-             type="mods" optional="yes" recommended="no" 
+             type="mods" optional="yes" recommended="no" group="tweak"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820" 
              authors="Player" 
              description="FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support." 
