@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-103</version>
+        <version>3-DEV-104</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -253,7 +253,7 @@
              />
 
         <mod name="Extra Cells 2" 
-             version="2.3.7" url="packs/ResonantRise/files/3.3.x/ExtraCells-1.7.10-2.3.7b176.jar" file="ExtraCells-1.7.10-2.3.7b176.jar" md5="62448371fe75a8bf65867eb5dc2a105b" download="server"
+             version="2.3.8" url="packs/ResonantRise/files/3.3.x/096/ExtraCells-1.7.10-2.3.8b185.jar" file="ExtraCells-1.7.10-2.3.8b185.jar" md5="2889737cee3ca9eeaad531d41a752623" download="server"
              type="mods" 
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x" 
              authors="M3gaFr3ak" 
@@ -269,7 +269,7 @@
              />
 
         <mod name="Another One Bites The Dust" 
-             version="2.9.0" url="packs/ResonantRise/files/3.3.x/096/AOBD-2.9.0.jar" file="AOBD-2.9.0.jar" md5="b7f28db456d2219d2242ad31720b93ed" download="server"
+             version="2.9.1" url="packs/ResonantRise/files/3.3.x/096/AOBD-2.9.1.jar" file="AOBD-2.9.1.jar" md5="86c72c198a137bfef6a2c496e056e3ad" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/221863/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/another-one-bites-the-dust?gameCategorySlug=mc-mods&amp;projectID=221863&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=foka_12%40hotmail.com&amp;bn=PP-DonationsBF:b" 
              authors="ganymedes01" 
@@ -555,8 +555,8 @@
              description="This is one of the three mods in the Gany&apos;s Mods collection. Gany&apos;s Surface adds blocks and functionalities related to the over world (duh). Poop everywhere! Detect when is raining, make armour out of wood, and have a nice cup of tea in the morning before going mining, just don&apos;t put the milk in first!   " 
              />
 
-        <mod name="Growthcraft Community Edition" version="2.2.2"
-             url="packs/ResonantRise/files/3.3.x/096/growthcraft-1.7.10-2.3.1-complete.jar" file="growthcraft-1.7.10-2.3.1-complete.jar" md5="00dc1637b5f9cb1815adac9855ef2735" download="server"
+        <mod name="Growthcraft Community Edition" version="2.4.0"
+             url="packs/ResonantRise/files/3.3.x/096/growthcraft-1.7.10-2.4.0-complete.jar" file="growthcraft-1.7.10-2.4.0-complete.jar" md5="48ec76790d3fc3571efc97de43e58564" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/235092/" 
              authors="Alatyami,Gwafu" 
@@ -1156,7 +1156,7 @@
              />
 
         <mod name="Calculator" 
-             version="1.9.2" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.2.jar" file="Calculator-1.7.10-1.9.2.jar" md5="f8461a4dd1855d34cc4208617158d6a2" download="server"
+             version="1.9.3" url="packs/ResonantRise/files/3.3.x/096/Calculator-1.7.10-1.9.3.jar" file="Calculator-1.7.10-1.9.3.jar" md5="20396a8c8562d2c2391837e253f478e3" download="server"
              type="mods" optional="yes" recommended="yes" depends="Calculator Assembly Fix"
              website="http://www.curseforge.com/projects/225104/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/calculator?gameCategorySlug=mc-mods&amp;projectID=225104&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=amandalansdell%40uwclub.net&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="SonarSonic"
@@ -1372,7 +1372,7 @@
              />
 
         <mod name="SonarCore" 
-             version="1.0.4" url="packs/ResonantRise/files/3.3.x/096/SonarCore-1.7.10-1.0.4.jar" file="SonarCore-1.7.10-1.0.4.jar" md5="b399b0c42f4a02ab5dcec08d15567f6b" download="server"
+             version="1.0.5" url="packs/ResonantRise/files/3.3.x/096/SonarCore-1.7.10-1.0.5.jar" file="SonarCore-1.7.10-1.0.5.jar" md5="9329a69097f40e2ef90fae98200fca3a" download="server"
              type="mods" 
              website="http://www.curseforge.com/projects/239418/" 
              authors="Ollie Lansdell" 
@@ -1625,7 +1625,7 @@
              />
 
         <mod name="RFTools" 
-             version="4.20" url="packs/ResonantRise/files/3.3.x/rftools-4.20.jar" file="rftools-4.20.jar" md5="d1f477e9dd94eec77159a812f52cbd6d" download="server"
+             version="4.21" url="packs/ResonantRise/files/3.3.x/096/rftools-4.21.jar" file="rftools-4.21.jar" md5="3885b74130edef61e22e6ac93b3dcc90" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.curseforge.com/projects/224641/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/rftools?gameCategorySlug=mc-mods&amp;projectID=224641&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=jorrit.tyberghein%40pandora.be&amp;bn=PP-DonationsBF:btn_donateC" 
              authors="McJty" 
