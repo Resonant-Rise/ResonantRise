@@ -1,4 +1,39 @@
 =================
+Build 105
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+MagicBees - Turned off vversion checking
+CoFH Common - Turned off non-critical update warnings
+Immersive Engineering - Potion IDs were changed to help reduce conflicts.
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 104
 =================
 
