@@ -1,5 +1,5 @@
 =================
-Build 105 -test
+Build 105
 =================
 
 ==Dependancies (Core)==
