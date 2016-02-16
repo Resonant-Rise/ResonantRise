@@ -1429,7 +1429,7 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
+             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones,Ars Magica 2,AnimationAPI"
              />
 
         <mod name="Ars Magica 2"
