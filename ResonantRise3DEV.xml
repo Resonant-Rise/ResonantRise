@@ -1,6 +1,10 @@
 <version>
     <pack>
+<<<<<<< HEAD
         <version>3-DEV-107</version>
+=======
+        <version>3-DEV-106</version>
+>>>>>>> origin/dev-3.0
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -1445,7 +1449,23 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Resonant-Rise for the average player."
-             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones"
+             depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones,Ars Magica 2,AnimationAPI"
+             />
+
+        <mod name="Ars Magica 2"
+             version="1.4.0.009" url="packs/ResonantRise/files/4.x/1.7.10_AM2-1.4.0.009.jar" file="1.7.10_AM2-1.4.0.009.jar" md5="1e4b8c84cda22fd093c5e921374578e9" download="server"
+             type="mods" optional="yes" recommended="no" depends="AnimationAPI"
+             website="http://www.curseforge.com/projects/67313/"
+             authors="Mithion,Zerodaimaru"
+             description="A look into what Minecraft could become if you add a splash of magic..."
+             />
+
+        <mod name="AnimationAPI"
+             version="1.7.10-1.2.4" url="packs/ResonantRise/files/4.x/AnimationAPI-1.7.10-1.2.4.jar" file="AnimationAPI-1.7.10-1.2.4.jar" md5="7ec0b391e527461196e86f4e4974f560" download="server"
+             type="mods" optional="yes" recommended="no" depends="Ars Magica 2" linked="Ars Magica 2"
+             website="http://www.minecraftforum.net/topic/1850860-/"
+             authors="thehippomaster21"
+             description="A supporting mod that allows modders to make animations more easily."
              />
 
         <mod name="Ancient Warfare 2" version="2.4.114" 

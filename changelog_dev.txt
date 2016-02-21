@@ -1,4 +1,5 @@
 =================
+<<<<<<< HEAD
 Build 107
 =================
 
@@ -8,12 +9,26 @@ n/a
 ==Lite (Core)==
 Added CustomMainMneu
 Added Resource Loader
+=======
+Build 106
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+>>>>>>> origin/dev-3.0
 
 ==Mainline (Optional/Recomended)==
 n/a
 
 ==Optionals==
+<<<<<<< HEAD
 n/a
+=======
+Ars Magicka 2
+Animation API
+>>>>>>> origin/dev-3.0
 
 --Client Only--
 n/a
@@ -25,7 +40,11 @@ n/a
 n/a
 
 ==Configs==
+<<<<<<< HEAD
 Added CustomMainMenu
+=======
+n/a
+>>>>>>> origin/dev-3.0
 
 ==Misc.==
 n/a
