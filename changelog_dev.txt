@@ -1,34 +1,18 @@
 =================
-<<<<<<< HEAD
-Build 107
-=================
-
-==Dependancies (Core)==
-n/a
-
-==Lite (Core)==
-Added CustomMainMneu
-Added Resource Loader
-=======
 Build 106
 =================
 
 ==Dependancies (Core)==
+n/a
 
 ==Lite (Core)==
-n/a
->>>>>>> origin/dev-3.0
+Added CustomMainMenu
 
 ==Mainline (Optional/Recomended)==
 n/a
 
 ==Optionals==
-<<<<<<< HEAD
 n/a
-=======
-Ars Magicka 2
-Animation API
->>>>>>> origin/dev-3.0
 
 --Client Only--
 n/a
@@ -40,11 +24,41 @@ n/a
 n/a
 
 ==Configs==
-<<<<<<< HEAD
-Added CustomMainMenu
-=======
 n/a
->>>>>>> origin/dev-3.0
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+Build 106
+=================
+
+==Dependancies (Core)==
+
+==Lite (Core)==
+n/a
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+Ars Magicka 2
+Animation API
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
 
 ==Misc.==
 n/a
