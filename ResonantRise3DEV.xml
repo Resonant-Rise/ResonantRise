@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>3-DEV-105</version>
+        <version>3-DEV-107</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -428,6 +428,14 @@
              description="ComputerCraft adds Computers, Programming and Robotics to Minecraft." 
              />
 
+        <mod name="Custom Main Menu"
+             version="1.9.2" url="packs/ResonantRise/files/3.3.x/CustomMainMenu-MC1.7.10-1.9.2.jar" file="CustomMainMenu-MC1.7.10-1.9.2.jar" md5="7d0a3079e02fc07cd19a9558227e878b" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/226406/"
+             authors="lumien"
+             description="Allows you to edit the mainmenu using json"
+             />
+
         <mod name="Dense Ores" 
             version="1.6.2" url="packs/ResonantRise/files/3.3.x/DENSEORES-1.6.2.jar" file="DENSEORES-1.6.2.jar" md5="aab8a8aad4385de5367987d64317562c" download="server" 
             type="mods" 
@@ -625,6 +633,14 @@
              website="http://www.curseforge.com/projects/223150/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&amp;projectID=223150&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_do" 
              authors="Ivorius" 
              description="Adds structures to worldgen, handles exporting and importing structures, and provides build tools." 
+             />
+
+        <mod name="Resource Loader"
+             version="1.2" url="packs/ResonantRise/files/3.3.x/ResourceLoader-1.2.jar" file="ResourceLoader-1.2.jar" md5="39facaa73da49b026ee2009dbdfcdccc" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/226447/"
+             authors="lumien"
+             description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
              />
 
         <mod name="JABBA" 

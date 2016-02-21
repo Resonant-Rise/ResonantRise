@@ -1,4 +1,39 @@
 =================
+Build 107
+=================
+
+==Dependancies (Core)==
+n/a
+
+==Lite (Core)==
+Added CustomMainMneu
+Added Resource Loader
+
+==Mainline (Optional/Recomended)==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Added CustomMainMenu
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 105
 =================
 
