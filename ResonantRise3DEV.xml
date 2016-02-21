@@ -1,10 +1,6 @@
 <version>
     <pack>
-<<<<<<< HEAD
         <version>3-DEV-107</version>
-=======
-        <version>3-DEV-106</version>
->>>>>>> origin/dev-3.0
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
