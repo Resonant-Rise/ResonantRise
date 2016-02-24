@@ -1,14 +1,12 @@
 =================
-Build 106
+Build 107
 =================
 
-==Dependancies (Core)==
-n/a
+==Core Mods==
+Added Custom Main Menu
+Added Resource Loader
 
-==Lite (Core)==
-Added CustomMainMenu
-
-==Mainline (Optional/Recomended)==
+==Mainline==
 n/a
 
 ==Optionals==
@@ -24,10 +22,10 @@ n/a
 n/a
 
 ==Configs==
-n/a
+Tweaked the configs for the Menu
 
 ==Misc.==
-n/a
+Added images to the Menu files can be found in the resourses folder.
 
 -- Dev only --
 n/a

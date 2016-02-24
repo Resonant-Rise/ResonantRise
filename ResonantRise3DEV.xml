@@ -356,14 +356,6 @@
              description="This is the core mod that will be used bu most of my mods from now on" 
              />
 
-        <!--<mod name="ChatFlow" 
-             version="1.0" url="packs/ResonantRise/files/3.3.x/096/ChatFlow-1.1.jar" file="ChatFlow-1.1.jar" md5="256af86efeb2080386c999e1d33dca64" download="server" 
-             type="mods" server="no"
-             website="http://www.curseforge.com/projects/231453/" 
-             authors="Vazkii" 
-             description="Full control of incoming chat messages via Regex" 
-             />-->
-
         <mod name="ChickenChunks" 
              version="1.3.4.19" url="packs/ResonantRise/files/3.3.x/096/ChickenChunks-1.7.10-1.3.4.19-universal.jar" file="ChickenChunks-1.7.10-1.3.4.19-universal.jar" md5="5592eda79bd2b52adf1d4bdceaa59b73" download="server" 
              type="mods" 
@@ -430,7 +422,7 @@
 
         <mod name="Custom Main Menu"
              version="1.9.2" url="packs/ResonantRise/files/3.3.x/CustomMainMenu-MC1.7.10-1.9.2.jar" file="CustomMainMenu-MC1.7.10-1.9.2.jar" md5="7d0a3079e02fc07cd19a9558227e878b" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/226406/"
              authors="lumien"
              description="Allows you to edit the mainmenu using json"
@@ -637,7 +629,7 @@
 
         <mod name="Resource Loader"
              version="1.2" url="packs/ResonantRise/files/3.3.x/ResourceLoader-1.2.jar" file="ResourceLoader-1.2.jar" md5="39facaa73da49b026ee2009dbdfcdccc" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/226447/"
              authors="lumien"
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
@@ -1076,13 +1068,6 @@
              version="1.3.3" url="packs/ResonantRise/files/3.3.x/096/Wawla-1.3.3-1.7.10.jar" file="Wawla-1.3.3-1.7.10.jar" md5="69deb6591d88186603bcbb404179764e" download="server"
              type="mods" 
              website="http://www.darkhax.net/wawla.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at?gameCategorySlug=mc-mods&amp;projectID=224712&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:bt" authors="Darkhax" description="Greatly expands upon the functionality of Waila by providing many new forms of information along with bridging support between Waila and many other popular minecraft mods." />
-
-        <!--<mod name="WTP" 
-             version="1.0.29.1" url="packs/ResonantRise/files/3.3.x/096/WTP-1.7.10-1.0.29.1.jar" file="WTP-1.7.10-1.0.29.1.jar" md5="a2ee4c608aa79fd49c488941ed06cece" download="server" 
-             type="mods" server="no"
-             website="http://www.curseforge.com/projects/221658/" authors="Robosphinx" 
-             description="WTP, or What&apos;s this pack, simply displays a modpack name or a message in the upper left corner of the main menu. The string and color are both configurable." 
-             />-->
 
         <mod name="WR-CBE-Universal" version="1.4.1.9" 
              url="packs/ResonantRise/files/3.3.x/WR-CBE-1.7.10-1.4.1.9-UNIVERSAL.jar" file="WR-CBE-1.7.10-1.4.1.9-UNIVERSAL.jar" md5="c3477cd84ce90a85cce8ba8bb7b93809" download="server" 
@@ -1680,14 +1665,6 @@
              description="Fixes recipe conflict with AW2 Iron Gear."
              />
 
-        <!--<mod name="Sanguimancy" 
-             version="1.7.10-1.1.9-31" url="packs/ResonantRise/files/3.3.x/Sanguimancy-1.7.10-1.1.9-31.jar" file="Sanguimancy-1.7.10-1.1.9-31.jar" md5="71e2556fb6a7d6f7fcc09e06fe2f1198" download="server" 
-             type="mods" optional="yes" recommended="no"
-             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy" 
-             authors="Tombenpotter" 
-             description="A Blood Magic addon adding all kind of stuff" 
-             />-->
-
         <mod name="Super Crafting Frame" 
              version="1.7.10.3" url="packs/ResonantRise/files/3.3.x/SUPERCRAFTINGFRAME-1.7.10.3.jar" file="SUPERCRAFTINGFRAME-1.7.10.3.jar" md5="81086777be7b1eca8a88b5c284935162" download="server" 
              type="mods" optional="yes" recommended="no"
@@ -1703,14 +1680,6 @@
              authors="SpitefulFox" 
              description="Thaumcraft Minus Thaumcraft is an add-on to take all the Thaumcraft out of Thaumcraft." 
              />
-
-        <!--<mod name="Thermal Recycling" 
-             version="1.0.4.2" url="packs/ResonantRise/files/3.3.x/ThermalRecycling-1.7.10-1.0.4.2.jar" file="ThermalRecycling-1.7.10-1.0.4.2.jar" md5="759f02807966609f5bd2d8beced9f74d" download="server"
-             type="mods" optional="yes" recommended="no"
-             website="https://github.com/OreCruncher/ThermalRecycling/wiki" 
-             authors="OreCruncher" 
-             description="Thermal Expansion 4.x add-on that provides machines to use the STUFF that is collected" 
-             />-->
 
         <mod name="Iguana Tinker Tweaks" 
              version="2.1.5" url="packs/ResonantRise/files/3.3.x/IGUANATINKERTWEAKS-1.7.10-2.1.5.jar" file="IGUANATINKERTWEAKS-1.7.10-2.1.5.jar" md5="0ef9b5b173bb5427b15279ceee04abda" download="server" 
@@ -1803,14 +1772,6 @@
              authors="techbrew"
              description="JourneyMap is a client mod for Forge which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen." 
              />
-
-        <!--<mod name="JourneyMapServer" version="1.0.5" 
-             url="http://minecraft.curseforge.com/projects/journeymap-server/files/2232619/download" file="JourneyMapServer1.0.5_MC1.7.10.jar" download="direct" 
-             type="mods" optional="yes" selected="no" recommended="no" server="yes" client="no" group="minimap"
-             website="http://www.curseforge.com/projects/225341/" 
-             authors="mysticdrew,techbrew" 
-             description="Server-Side control for JourneyMap Features" 
-             />-->
     
         <mod name="Morpheus" 
              version="1.7.10-1.6.18" url="packs/ResonantRise/files/3.3.x/096/Morpheus-1.7.10-1.6.18.jar" file="Morpheus-1.7.10-1.6.18.jar" md5="d9515a99bfba89b92639dac6847220f4" download="server"

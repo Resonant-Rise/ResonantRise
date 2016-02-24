@@ -34,8 +34,8 @@
             "posY" : -40,
             "width" : 196,
             "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -54,8 +54,8 @@
             "posY" : -10,
             "width" : 196,
             "height" : 30,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -74,8 +74,8 @@
             "posY" : 30,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -92,8 +92,8 @@
             "posY" : 50,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -112,8 +112,8 @@
             "posY" : 70,
             "width" : 196,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
 			"hoverText" : "No! Don't leave!",
             "action" :
@@ -132,8 +132,8 @@
             "posY" : 100,
             "width" : 96,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -151,8 +151,8 @@
             "posY" : 100,
             "width" : 100,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "wrappedButton" : 404
         }

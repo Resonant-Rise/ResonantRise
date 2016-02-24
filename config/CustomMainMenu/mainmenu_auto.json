@@ -35,8 +35,8 @@
             "posY" : -30,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -55,8 +55,8 @@
             "posY" : -10,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -75,8 +75,8 @@
             "posY" : 10,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -93,8 +93,8 @@
             "posY" : 30,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
@@ -113,8 +113,8 @@
             "posY" : 50,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
 			"hoverText" : "No! Don't leave!",
             "action" :
@@ -133,10 +133,10 @@
             "posY" : 80,
             "width" : 153,
             "height" : 20,
-			imageWidth : 100,
-			imageHeight : 50,
-			imageWidth : 100,
-			imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
+			//imageWidth : 100,
+			//imageHeight : 50,
 			"alignment" : "left_center",
             "action" :
             {
