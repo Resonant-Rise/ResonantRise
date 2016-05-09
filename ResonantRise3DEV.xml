@@ -1373,7 +1373,7 @@
              />
 
         <mod name="SonarCore"
-             version="1.0.5" url="packs/ResonantRise/files/3.3.x/096/SonarCore-1.7.10-1.0.5.jar" file="SonarCore-1.7.10-1.0.5.jar" md5="9329a69097f40e2ef90fae98200fca3a" download="server"
+             version="1.1.0" url="packs/ResonantRise/files/3.x/SonarCore-1.7.10-1.1.0.jar" file="SonarCore-1.7.10-1.1.0.jar" md5="466b9255d06c72479434df3a6ad4a1c2" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/239418/"
              authors="Ollie Lansdell"
