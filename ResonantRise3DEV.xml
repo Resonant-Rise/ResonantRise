@@ -397,7 +397,7 @@
              />
 
         <mod name="Compact Storage"
-             version="release-2.1.0-lts.21" url="packs/ResonantRise/files/3.x/compactstorage-1.7.10-release-2.1.0-lts.21-universal.jar" file="compactstorage-1.7.10-release-2.1.0-lts.21-universal.jar" md5="a82b2c2441b8ae68aeb42360af27933d" download="server" md5="faf661c07da27f1467f0ab8be8585bb0" download="server"
+             version="release-2.1.0-lts.21" url="packs/ResonantRise/files/3.x/compactstorage-1.7.10-release-2.1.0-lts.21-universal.jar" file="compactstorage-1.7.10-release-2.1.0-lts.21-universal.jar" md5="a82b2c2441b8ae68aeb42360af27933d" download="server"
              type="mods"
              website="http://github.com/Workshop-Development/CompactChests/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/mc-mods/223703-compactstorage&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=toby.strong1%40hotmail.co.uk&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_retur"
              authors="tattyseal,Mark_R"
