@@ -5,7 +5,7 @@
       <biome type="BASE_LAND_TYPES" />
     </biomeFilter>
   </entry>
- --> 
+ -->
 
 <!-- Enabling this section will remove the default wither witch spawn config and replace it with
      a new config with a higher spawn rate
