@@ -1433,6 +1433,7 @@
              depends="Ancient Warfare 2,Aroma1997Core,Aroma1997&apos;s Dimensional World,Armourer's Workshop,AuraCascade,Biomes o' Plenty,BiblioWoods Biomes O'Plenty Edition,Sanguimancy,Compact Machines,Cosmetic Armor,Dark Menagerie,Decocraft,Flood Lights,Garden Stuff,Hardcore Ender Expansion,HEE Music,Headcrumbs,Immibis&apos;s Peripherals,OpenComputers,Open Peripherals AIO,PneumaticCraft,Pressure Pipes,Primitive Mobs,Project Blue,QuiverMob,Redstone Paste,Refined Relocation,Reliquary,RFTools,Router Reborn,Wrench Fix,Super Crafting Frame,Thermal Recycling,Iguana Tinker Tweaks,Tubes,Veinminer,Thaumcraft Minus Thaumcraft,Ztones,Chisel Tones,Ars Magica 2,AnimationAPI"
              />
 
+<!--
         <mod name="Ars Magica 2"
              version="1.4.0.009" url="packs/ResonantRise/files/4.x/1.7.10_AM2-1.4.0.009.jar" file="1.7.10_AM2-1.4.0.009.jar" md5="1e4b8c84cda22fd093c5e921374578e9" download="server"
              type="mods" optional="yes" recommended="no" depends="AnimationAPI"
@@ -1440,6 +1441,7 @@
              authors="Mithion,Zerodaimaru"
              description="A look into what Minecraft could become if you add a splash of magic..."
              />
+-->
 
         <mod name="AnimationAPI"
              version="1.7.10-1.2.4" url="packs/ResonantRise/files/4.x/AnimationAPI-1.7.10-1.2.4.jar" file="AnimationAPI-1.7.10-1.2.4.jar" md5="7ec0b391e527461196e86f4e4974f560" download="server"
