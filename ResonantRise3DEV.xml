@@ -1443,6 +1443,7 @@
              />
 -->
 
+<!--
         <mod name="AnimationAPI"
              version="1.7.10-1.2.4" url="packs/ResonantRise/files/4.x/AnimationAPI-1.7.10-1.2.4.jar" file="AnimationAPI-1.7.10-1.2.4.jar" md5="7ec0b391e527461196e86f4e4974f560" download="server"
              type="mods" optional="yes" recommended="no" depends="Ars Magica 2" linked="Ars Magica 2"
@@ -1450,6 +1451,7 @@
              authors="thehippomaster21"
              description="A supporting mod that allows modders to make animations more easily."
              />
+-->
 
         <mod name="Ancient Warfare 2"
              version="2.4.115" url="packs/ResonantRise/files/3.x/ancientwarfare-2.4.115-beta-MC1.7.10-FULL.jar" file="ancientwarfare-2.4.115-beta-MC1.7.10-FULL.jar" md5="0c07c8142073a26a2be6828870f209d3" download="server"
