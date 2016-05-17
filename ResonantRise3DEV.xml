@@ -253,7 +253,7 @@
              />
 
         <mod name="Extra Cells 2"
-             version="2.3.9" url="packs/ResonantRise/files/3.x/ExtraCells-1.7.10-2.3.9b188.jar" file="ExtraCells-1.7.10-2.3.9b188.jar" md5="552e4bb842c12b1b174ef9ded02e4f91" download="server"
+             version="2.3.10" url="packs/ResonantRise/files/3.3.x/ExtraCells-1.7.10-2.3.10b190.jar" file="ExtraCells-1.7.10-2.3.10b190.jar" md5="a008252183ee641035239ad487d85406" download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x"
              authors="M3gaFr3ak"
@@ -301,7 +301,7 @@
              />
 
         <mod name="BiblioCraft"
-             version="1.11.4" url="packs/ResonantRise/files/3.3.x/096/BiblioCraft[v1.11.4][MC1.7.10].jar" file="BiblioCraft[v1.11.4][MC1.7.10].jar" md5="885c0a762ed13868811eff7fa98b7811" download="server"
+             version="1.11.5" url="packs/ResonantRise/files/3.3.x/BiblioCraft[v1.11.5][MC1.7.10].jar" file="BiblioCraft[v1.11.5][MC1.7.10].jar" md5="e63cda211516c31144e9746ffc667663" download="server"
              type="mods"
              website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bibliocraft?gameCategorySlug=mc-mods&amp;projectID=228027&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=nuchaz.ipod%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="Joseph &apos;Nuchaz&apos; Sinclair"
@@ -492,7 +492,7 @@
              />
 
         <mod name="Water Hooks"
-             version="1.2.1" url="packs/ResonantRise/files/3.x/waterhooks-1.2.1.jar" file="waterhooks-1.2.1.jar" md5="7e05d3103274a83d92fdbdba88ff6638" download="server"
+             version="1.2.1" url="packs/ResonantRise/files/3.3.x/waterhooks-1.2.1.jar" file="waterhooks-1.2.1.jar" md5="7e05d3103274a83d92fdbdba88ff6638" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/236204/"
              authors="Henry Loenwind"
@@ -620,7 +620,7 @@
              />
 
         <mod name="Recurrent Complex"
-             version="0.9.6.3" url="packs/ResonantRise/files/3.3.x/RecurrentComplex-0.9.6.3.jar" file="RecurrentComplex-0.9.6.3.jar" md5="fdb06ad203e0d3ef595bd5d37dbcfcd1" download="server"
+             version="0.9.7.1" url="packs/ResonantRise/files/3.3.x/RecurrentComplex-0.9.7.1.jar" file="RecurrentComplex-0.9.7.1.jar" md5="35e038783f0337512a99bd37d066e8c9" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/223150/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&amp;projectID=223150&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lukastenbrink%40gmail.com&amp;bn=PP-DonationsBF:btn_do"
              authors="Ivorius"
@@ -708,7 +708,7 @@
              />
 
         <mod name="ExtraTiC"
-             version="1.4.5" url="packs/ResonantRise/files/3.3.x/EXTRATIC-1.7.10-1.4.5.jar" file="EXTRATIC-1.7.10-1.4.5.jar" md5="27de96be132c64e0b9ec3b832915df6b" download="server"
+             version="1.4.6" url="packs/ResonantRise/files/3.3.x/ExtraTiC-1.7.10-1.4.6.jar" file="ExtraTiC-1.7.10-1.4.6.jar" md5="e66dc4b8d6164e75615dfabf1f8dc5a4" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/72728/"
              authors="Glassmaker"
@@ -733,7 +733,7 @@
              />
 
         <mod name="Minefactory Reloaded"
-             version="2.8.1-174" url="packs/ResonantRise/files/3.3.x/096/MineFactoryReloaded-[1.7.10]2.8.1-174.jar" file="MineFactoryReloaded-[1.7.10]2.8.1-174.jar" md5="690ebc0ca27dfbeff2c8111f413e96ad" download="server"
+             version="2.8.2B1-186" url="packs/ResonantRise/files/3.3.x/MineFactoryReloaded-[1.7.10]2.8.2B1-186.jar" file="MineFactoryReloaded-[1.7.10]2.8.2B1-186.jar" md5="55e86b2c00fafd29b35d0b289c4be119" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/66672/"
              authors="skyboy026"
@@ -859,8 +859,8 @@
              description="Upddated Version of Okushama&apos;s NotEnoughKeys. Sorts the Controls gui system and adds optional modifiers (SHIFT, CTRL, ALT) to keys."
              />
 
-        <mod name="Not Enough Resources" version="0.1.0.111"
-             url="packs/ResonantRise/files/3.3.x/096/NotEnoughResources-1.7.10-0.1.0.111.jar" file="NotEnoughResources-1.7.10-0.1.0.111.jar" md5="b56b4dab2bd87a1f8fafc81fe1d5dea8" download="server"
+        <mod name="Not Enough Resources"
+             version="0.1.0-122" url="packs/ResonantRise/files/3.3.x/NotEnoughResources-1.7.10-0.1.0-122.jar" file="NotEnoughResources-1.7.10-0.1.0-122.jar" md5="dd1ce8f0d608791c62abc7c824019843" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/225815/"
              authors="hilburn,way2muchnoise"
@@ -988,7 +988,7 @@
              />
 
         <mod name="Thermal Foundation"
-             version="1.2.2-111" url="packs/ResonantRise/files/3.3.x/096/ThermalFoundation-[1.7.10]1.2.2-111.jar" file="ThermalFoundation-[1.7.10]1.2.2-111.jar" md5="5dcb7f154deadda35b1aca6312743fdc" download="server"
+             version="1.2.4-114" url="packs/ResonantRise/files/3.3.x/ThermalFoundation-[1.7.10]1.2.4-114.jar" file="ThermalFoundation-[1.7.10]1.2.4-114.jar" md5="30892bfc6bcd92619f32c503574ac5ae" download="server"
              type="mods"
              website="http://www.teamcofh.com"
              authors="Team CoFH"
@@ -996,7 +996,7 @@
              />
 
         <mod name="Thermal Dynamics"
-             version="1.1.0" url="packs/ResonantRise/files/3.3.x/THERMALDYNAMICS-[1.7.10]1.1.0-161.jar" file="THERMALDYNAMICS-[1.7.10]1.1.0-161.jar" md5="501fae0a34ae3d686c3256c68c671f31" download="server"
+             version="1.2.0" url="packs/ResonantRise/files/3.3.x/ThermalDynamics-[1.7.10]1.2.0-171.jar" file="ThermalDynamics-[1.7.10]1.2.0-171.jar" md5="d0c9d3153b4a12279108c77f4b43717e" download="server"
              type="mods"
              website="http://www.teamcofh.com"
              authors="Team CoFH"
@@ -1036,7 +1036,7 @@
              />
 
         <mod name="Translocator"
-             version="1.1.2.15" url="packs/ResonantRise/files/3.3.x/TRANSLOCATOR-1.7.10-1.1.2.15-UNIVERSAL.jar" file="TRANSLOCATOR-1.7.10-1.1.2.15-UNIVERSAL.jar" md5="8eee76817934d0d79ca75448f3cd1229" download="server"
+             version="1.1.2.16" url="packs/ResonantRise/files/3.3.x/Translocator-1.7.10-1.1.2.16-universal.jar" file="Translocator-1.7.10-1.1.2.16-universal.jar" md5="541e87b5d6f522415f8d9a05811377d8" download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223"
              authors="ChickenBones"
@@ -1065,7 +1065,7 @@
              website="http://ci.tterrag.com" authors="tterrag" description="WAILA plugins for various mods, such as Blood Magic, Magical Crops, and Forestry!" />
 
         <mod name="What Are We Looking At"
-             version="1.3.3" url="packs/ResonantRise/files/3.3.x/096/Wawla-1.3.3-1.7.10.jar" file="Wawla-1.3.3-1.7.10.jar" md5="69deb6591d88186603bcbb404179764e" download="server"
+             version="1.3.1" url="packs/ResonantRise/files/3.3.x/Wawla-1.0.5.120.jar" file="Wawla-1.0.5.120.jar" md5="dbdf14b087e645bece12d1cab750f397" download="server"
              type="mods"
              website="http://www.darkhax.net/wawla.html" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at?gameCategorySlug=mc-mods&amp;projectID=224712&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=darklime%40live.ca&amp;bn=PP-DonationsBF:bt" authors="Darkhax" description="Greatly expands upon the functionality of Waila by providing many new forms of information along with bridging support between Waila and many other popular minecraft mods." />
 
@@ -1149,7 +1149,7 @@
              />
 
         <mod name="Logistics Pipes"
-             version="0.9.3.121" url="packs/ResonantRise/files/3.x/logisticspipes-0.9.3.121.jar" file="logisticspipes-0.9.3.121.jar" md5="d71c301a78f2588b2d8a7c7ac3fa2c8e" download="server"
+             version="0.9.3.122" url="packs/ResonantRise/files/3.3.x/logisticspipes-0.9.3.122.jar" file="logisticspipes-0.9.3.122.jar" md5="e211f531077a4996eed203b5429869e8" download="server"
              type="mods" linked="Buildcraft" optional="yes" recommended="yes"
              website="http://www.curseforge.com/projects/232838/"
              authors="RS485,davboecki,theZorro266"
@@ -1326,7 +1326,7 @@
              />
 
         <mod name="Mekanism"
-             version="8.1.8.258" url="packs/ResonantRise/files/3.3.x/096/Mekanism-1.7.10-8.1.8.258.jar" file="Mekanism-1.7.10-8.1.8.258.jar" md5="85ed35e2ccb6389d51d95a3eec6905b2" download="server"
+             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/Mekanism-1.7.10-8.1.9.265.jar" file="Mekanism-1.7.10-8.1.9.265.jar" md5="5e2ef009a557af0c55412ee3aaba8603" download="server"
              type="mods" optional="yes" recommended="yes"
              website="http://aidancbrady.com/"
              authors="aidancbrady"
@@ -1334,7 +1334,7 @@
              />
 
         <mod name="MekanismGenerators"
-             version="8.1.8.258" url="packs/ResonantRise/files/3.3.x/096/MekanismGenerators-1.7.10-8.1.8.258.jar" file="MekanismGenerators-1.7.10-8.1.8.258.jar" md5="f63b0c1936e6a87f9922c4773bb027e1" download="server"
+             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/MekanismGenerators-1.7.10-8.1.9.265.jar" file="MekanismGenerators-1.7.10-8.1.9.265.jar" md5="2e3b5d595c5b84bf0307a2ce5a9e555e" download="server"
              type="mods" linked="Mekanism" optional="yes" recommended="yes"
              website="http://aidancbrady.com/"
              authors="aidancbrady"
@@ -1342,14 +1342,15 @@
              />
 
         <mod name="MekanismTools"
-             version="8.1.8.258" url="packs/ResonantRise/files/3.3.x/096/MekanismTools-1.7.10-8.1.8.258.jar" file="MekanismTools-1.7.10-8.1.8.258.jar" md5="0db8a362d677d1a1818a961de58b9daa" download="server"
-             type="mods" linked="Mekanism" optional="yes" recommended="yes"             website="http://aidancbrady.com/"
+             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/MekanismTools-1.7.10-8.1.9.265.jar" file="MekanismTools-1.7.10-8.1.9.265.jar" md5="6a653944b406cc96e71d2abf0b97a4a2" download="server"
+             type="mods" linked="Mekanism" optional="yes" recommended="yes"
+             website="http://aidancbrady.com/"
              authors="aidancbrady"
              description="Tools module for Mekanism."
              />
 
         <mod name="QuiverBow"
-             version="b100" url="packs/ResonantRise/files/3.3.x/QUIVERBOW_1.7.10_B100.zip" file="QUIVERBOW_1.7.10_B100.zip" md5="0c9d01b0d2bec0791d8d6beffb984886" download="server"
+             version="b101d" url="packs/ResonantRise/files/3.3.x/QuiverBow_1.7.10_b101d.zip" file="QuiverBow_1.7.10_b101d.zip" md5="4cb92329ccf967b596060b239f1fdeae" download="server"
              type="mods" optional="yes" recommended="yes"
              website="http://wildwestscifi.net/coding/9889" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/quiverbow?gameCategorySlug=mc-mods&amp;projectID=73811&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=Paypal%40wildwestscifi.net&amp;bn=PP-DonationsBF:btn_donateCC_L"
              authors="Domochevsky"
@@ -1357,7 +1358,7 @@
              />
 
         <mod name="Railcraft"
-             version="9.11.0.0" url="packs/ResonantRise/files/3.x/Railcraft_1.7.10-9.11.0.0.jar" file="Railcraft_1.7.10-9.11.0.0.jar" md5="046afde9de22128a39b3106357ede166" download="server"
+             version="9.12.2.0" url="packs/ResonantRise/files/3.3.x/Railcraft_1.7.10-9.12.2.0.jar" file="Railcraft_1.7.10-9.12.2.0.jar" md5="c259e18bb43599134b3a6f96cba5f26d" download="server"
              type="mods" optional="yes" recommended="yes"
              website="http://railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/railcraft?gameCategorySlug=mc-mods&amp;projectID=51195&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=CovertJaguar%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG."
              authors="CovertJaguar"
@@ -1373,7 +1374,7 @@
              />
 
         <mod name="SonarCore"
-             version="1.1.0" url="packs/ResonantRise/files/3.x/SonarCore-1.7.10-1.1.0.jar" file="SonarCore-1.7.10-1.1.0.jar" md5="466b9255d06c72479434df3a6ad4a1c2" download="server"
+             version="1.7.10-1.1.1" url="packs/ResonantRise/files/3.3.x/SonarCore-1.7.10-1.1.1.jar" file="SonarCore-1.7.10-1.1.1.jar" md5="20a514207159d82a6b45758a21932bd0" download="server"
              type="mods"
              website="http://www.curseforge.com/projects/239418/"
              authors="Ollie Lansdell"
