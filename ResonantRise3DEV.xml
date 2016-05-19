@@ -859,14 +859,6 @@
              description="Upddated Version of Okushama&apos;s NotEnoughKeys. Sorts the Controls gui system and adds optional modifiers (SHIFT, CTRL, ALT) to keys."
              />
 
-        <mod name="Not Enough Resources"
-             version="0.1.0-122" url="packs/ResonantRise/files/3.3.x/NotEnoughResources-1.7.10-0.1.0-122.jar" file="NotEnoughResources-1.7.10-0.1.0-122.jar" md5="dd1ce8f0d608791c62abc7c824019843" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/225815/"
-             authors="hilburn,way2muchnoise"
-             description="Adds Resources and Mob Drops to NEI"
-             />
-
         <mod name="Nether Ores"
              version="2.3.1-22" url="packs/ResonantRise/files/3.3.x/096/NetherOres-[1.7.10]2.3.1-22.jar" file="NetherOres-[1.7.10]2.3.1-22.jar" md5="78980ff5bea5c0de0b0a27edff94225b" download="server"
              type="mods"
@@ -1588,6 +1580,14 @@
              website="http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/"
              authors="immibis"
              description="Adds some useful and neat peripherals"
+             />
+
+        <mod name="Not Enough Resources"
+             version="0.1.0-122" url="packs/ResonantRise/files/3.3.x/NotEnoughResources-1.7.10-0.1.0-122.jar" file="NotEnoughResources-1.7.10-0.1.0-122.jar" md5="dd1ce8f0d608791c62abc7c824019843" download="server"
+             type="mods" optional="yes" recommended="no"
+             website="http://www.curseforge.com/projects/225815/"
+             authors="hilburn,way2muchnoise"
+             description="Adds Resources and Mob Drops to NEI"
              />
 
         <mod name="OpenComputers"
