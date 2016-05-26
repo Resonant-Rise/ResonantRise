@@ -1582,6 +1582,7 @@
              description="Adds some useful and neat peripherals"
              />
 
+<!--
         <mod name="Not Enough Resources"
              version="0.1.0-122" url="packs/ResonantRise/files/3.3.x/NotEnoughResources-1.7.10-0.1.0-122.jar" file="NotEnoughResources-1.7.10-0.1.0-122.jar" md5="dd1ce8f0d608791c62abc7c824019843" download="server"
              type="mods" optional="yes" recommended="no"
@@ -1589,6 +1590,7 @@
              authors="hilburn,way2muchnoise"
              description="Adds Resources and Mob Drops to NEI"
              />
+-->
 
         <mod name="OpenComputers"
              version="1.5.21.41" url="packs/ResonantRise/files/3.3.x/OpenComputers-MC1.7.10-1.5.21.41-universal.jar" file="OpenComputers-MC1.7.10-1.5.21.41-universal.jar" md5="0b401a5357a8a4f8756b3185402138ca" download="server"
