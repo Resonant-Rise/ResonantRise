@@ -1318,7 +1318,7 @@
              />
 
         <mod name="Mekanism"
-             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/Mekanism-1.7.10-8.1.9.265.jar" file="Mekanism-1.7.10-8.1.9.265.jar" md5="5e2ef009a557af0c55412ee3aaba8603" download="server"
+             version="9.0.1.270" url="packs/ResonantRise/files/4.x/Mekanism-1.7.10-9.0.1.270.jar" file="Mekanism-1.7.10-9.0.1.270.jar" md5="e3bac462449faa0abd356da956b09640" download="server"
              type="mods" optional="yes" recommended="yes"
              website="http://aidancbrady.com/"
              authors="aidancbrady"
@@ -1326,7 +1326,7 @@
              />
 
         <mod name="MekanismGenerators"
-             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/MekanismGenerators-1.7.10-8.1.9.265.jar" file="MekanismGenerators-1.7.10-8.1.9.265.jar" md5="2e3b5d595c5b84bf0307a2ce5a9e555e" download="server"
+             version="9.0.1.270" url="packs/ResonantRise/files/4.x/MekanismGenerators-1.7.10-9.0.1.270.jar" file="MekanismGenerators-1.7.10-9.0.1.270.jar" md5="1a11c83ba67c9ec221b910bba669fbb7" download="server"
              type="mods" linked="Mekanism" optional="yes" recommended="yes"
              website="http://aidancbrady.com/"
              authors="aidancbrady"
@@ -1334,7 +1334,7 @@
              />
 
         <mod name="MekanismTools"
-             version="8.1.9.265" url="packs/ResonantRise/files/3.3.x/MekanismTools-1.7.10-8.1.9.265.jar" file="MekanismTools-1.7.10-8.1.9.265.jar" md5="6a653944b406cc96e71d2abf0b97a4a2" download="server"
+             version="9.0.1.270" url="packs/ResonantRise/files/4.x/MekanismTools-1.7.10-9.0.1.270.jar" file="MekanismTools-1.7.10-9.0.1.270.jar" md5="b802d5558aad7706d4a7e7775cb29354" download="server"
              type="mods" linked="Mekanism" optional="yes" recommended="yes"
              website="http://aidancbrady.com/"
              authors="aidancbrady"
