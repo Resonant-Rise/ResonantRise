@@ -1820,8 +1820,8 @@
              description="A small mod for servers to assist with finding which TileEntities(machines) and Entities are being slow."
              />
 
-        <mod name="Voxel Map" version="1.5.13"
-             url="packs/ResonantRise/files/3.x/mod_voxelMap_1.5.13_for_1.7.10.litemod" file="mod_voxelMap_1.5.13_for_1.7.10.litemod" md5="96b6c6ca0cc2cefe890f5a5731416110" download="server"
+        <mod name="Voxel Map"
+             version="1.6.11" url="packs/ResonantRise/files/3.3.x/mod_voxelMap_1.6.11_for_1.7.10.litemod" file="mod_voxelMap_1.6.11_for_1.7.10.litemod" md5="8934e6268e614df430a162a757d42566" download="server"
              type="mods" selected="no" optional="yes" recommended="no" server="no" group="minimap"
              website="http://www.liteloader.com/mod/voxelmap"
              authors="MamiyaOtaru"
