@@ -245,7 +245,7 @@
              />
 
         <mod name="AE2 Stuff"
-             version="0.5.1.61" url="packs/ResonantRise/files/3.x/ae2stuff-0.5.1.61-mc1.7.10.jar" file="ae2stuff-0.5.1.61-mc1.7.10.jar" md5="8b2c397b7b481135aa1f8b039f696b6a" download="server"
+             version="0.5.1.9" url="packs/ResonantRise/files/3.3.x/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar" file="ae2stuff-rv3-0.5.1.9-mc1.7.10.jar" md5="aec535108765d13ab7c9885f60747f43" download="server"
              type="mods"
              website="http://bdew.net/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/ae2-stuff?gameCategorySlug=mc-mods&amp;projectID=225194&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif"
              authors="bdew"
