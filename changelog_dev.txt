@@ -1,4 +1,37 @@
 =================
+Build 108
+=================
+
+==Core Mods==
+N/A
+
+==Mainline==
+n/a
+
+==Optionals==
+n/a
+
+--Client Only--
+Removed CoFH Tweaks
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+Tweaked Magical Crops crafting reduced by 90%. 9 essence will get procude 1-2 of that item (Ores and other major items)
+Change Gany's Surface Option for 1.8 style doors to false - Trying to fix dupe bug
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+
+=================
 Build 107
 =================
 

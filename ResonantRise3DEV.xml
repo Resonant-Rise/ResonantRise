@@ -1748,14 +1748,6 @@
              description="Client Mods"
              />
 
-        <mod name="CoFHTweaks" version="1.1.0-82"
-             url="packs/ResonantRise/files/3.3.x/096/CoFHTweaks-[1.7.10]1.1.0-82.jar" file="CoFHTweaks-[1.7.10]1.1.0-82.jar" md5="031c5dbfd6777230b41c94ac89cdb73d" download="server"
-             type="mods" optional="yes" recommended="no" group="tweak"
-             website="http://www.curseforge.com/projects/230020/"
-             authors="skyboy026,TeamCoFH"
-             description="Various performance improvements"
-             />
-
         <mod name="EiraIRC"
              version="2.9.396" url="packs/ResonantRise/files/3.3.x/096/eirairc-mc1.7.10-2.9.396.jar" file="eirairc-mc1.7.10-2.9.396.jar" md5="48464b6b9e406d9d37e828acaca26271" download="server"
              type="mods" optional="yes" recommended="no"
