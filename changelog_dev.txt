@@ -1,4 +1,55 @@
 =================
+Build 109
+=================
+
+==Core Mods==
+N/A
+
+==Mainline==
+Updated Calculator
+Carpenters Blocks
+CoFH Core
+CoFH Lib
+Draconic Evolution
+Enderio
+Enderio Addons
+EnderCore
+Extra Cells 2
+Forbidden Magic
+Forestry
+Growthcraft
+Jabba
+Logistics Pipes
+Minefactory Reloaded
+Sonar Core
+Thermal Expansion
+Thermal Foundation
+NotEnoughItems
+Rftools
+Mekanism
+Mekanism Generators
+Mekanism Tools
+
+==Optionals==
+n/a
+
+--Client Only--
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build 108
 =================
 
